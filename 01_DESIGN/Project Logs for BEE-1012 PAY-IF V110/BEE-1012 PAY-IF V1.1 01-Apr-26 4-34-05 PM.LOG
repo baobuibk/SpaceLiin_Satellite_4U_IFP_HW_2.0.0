@@ -1,0 +1,4 @@
+Added Component: Designator=D14(LED_0402)
+Added Pin To Net: NetName=NetD14_1 Pin=D14-1
+Added Pin To Net: NetName=VBUS/EN Pin=D14-2
+Added Member To Class: ClassName=CONNECTOR_INTERFACE Member=Component D14 LTST-C281TBKT

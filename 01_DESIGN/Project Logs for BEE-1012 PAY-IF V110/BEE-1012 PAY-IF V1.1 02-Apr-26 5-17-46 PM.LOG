@@ -1,0 +1,4 @@
+Added Differential Pair: Name=OSC_LVDS
+Added Member To Class: ClassName=DIFF100 Member=Wire OSC_LVDS_N
+Added Member To Class: ClassName=DIFF100 Member=Wire OSC_LVDS_P
+Added Member To Class: ClassName=DIFF100 Member=OSC_LVDS

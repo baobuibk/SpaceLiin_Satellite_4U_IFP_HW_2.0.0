@@ -1,0 +1,63 @@
+Removed Member From Class: ClassName=SAMA7G54_DDR3L Member=TP?
+Removed Member From Class: ClassName=SAMA7G54_MPU Member=TP?
+Change Component Designator: OldDesignator=TP? NewDesignator=TP1
+Change Component Designator: OldDesignator=TP? NewDesignator=TP2
+Change Component Designator: OldDesignator=TP? NewDesignator=TP3
+Change Component Designator: OldDesignator=TP? NewDesignator=TP4
+Change Component Designator: OldDesignator=TP? NewDesignator=TP5
+Change Component Designator: OldDesignator=TP? NewDesignator=TP6
+Change Component Designator: OldDesignator=TP? NewDesignator=TP7
+Change Component Designator: OldDesignator=TP? NewDesignator=TP8
+Change Component Designator: OldDesignator=TP? NewDesignator=TP9
+Change Component Designator: OldDesignator=TP? NewDesignator=TP10
+Change Component Designator: OldDesignator=TP? NewDesignator=TP11
+Change Component Designator: OldDesignator=TP? NewDesignator=TP12
+Change Component Designator: OldDesignator=TP? NewDesignator=TP13
+Change Component Designator: OldDesignator=TP? NewDesignator=TP14
+Change Component Designator: OldDesignator=TP? NewDesignator=TP15
+Change Component Designator: OldDesignator=TP? NewDesignator=TP16
+Change Component Designator: OldDesignator=TP? NewDesignator=TP17
+Change Component Designator: OldDesignator=TP? NewDesignator=TP18
+Change Component Designator: OldDesignator=TP? NewDesignator=TP19
+Add Pin To Net: Unknown Pin: Pin TP1-0
+Add Pin To Net: Unknown Pin: Pin TP2-0
+Add Pin To Net: Unknown Pin: Pin TP3-0
+Add Pin To Net: Unknown Pin: Pin TP4-0
+Add Pin To Net: Unknown Pin: Pin TP5-0
+Add Pin To Net: Unknown Pin: Pin TP6-0
+Add Pin To Net: Unknown Pin: Pin TP7-0
+Add Pin To Net: Unknown Pin: Pin TP8-0
+Add Pin To Net: Unknown Pin: Pin TP9-0
+Add Pin To Net: Unknown Pin: Pin TP10-0
+Add Pin To Net: Unknown Pin: Pin TP11-0
+Add Pin To Net: Unknown Pin: Pin TP12-0
+Add Pin To Net: Unknown Pin: Pin TP13-0
+Add Pin To Net: Unknown Pin: Pin TP14-0
+Add Pin To Net: Unknown Pin: Pin TP15-0
+Add Pin To Net: Unknown Pin: Pin TP16-0
+Add Pin To Net: Unknown Pin: Pin TP17-0
+Add Pin To Net: Unknown Pin: Pin TP18-0
+Add Pin To Net: Unknown Pin: Pin TP19-0
+Add Pin To Net: Unknown Pin: Pin TP20-0
+Add Pin To Net: Unknown Pin: Pin TP21-0
+Add Pin To Net: Unknown Pin: Pin TP22-0
+Add Pin To Net: Unknown Pin: Pin TP23-0
+Add Pin To Net: Unknown Pin: Pin TP25-0
+Added Member To Class: ClassName=SAMA7G54_PMIC Member=Component TP1
+Added Member To Class: ClassName=SAMA7G54_PMIC Member=Component TP2
+Added Member To Class: ClassName=SAMA7G54_PMIC Member=Component TP3
+Added Member To Class: ClassName=SAMA7G54_PMIC Member=Component TP5
+Added Member To Class: ClassName=SAMA7G54_PMIC Member=Component TP6
+Added Member To Class: ClassName=SAMA7G54_PMIC Member=Component TP7
+Added Member To Class: ClassName=SAMA7G54_PMIC Member=Component TP8
+Added Member To Class: ClassName=SAMA7G54_PMIC Member=Component TP9
+Added Member To Class: ClassName=SAMA7G54_PMIC Member=Component TP10
+Added Member To Class: ClassName=SAMA7G54_MPU Member=Component TP11
+Added Member To Class: ClassName=SAMA7G54_DDR3L Member=Component TP12
+Added Member To Class: ClassName=SAMA7G54_DDR3L Member=Component TP13
+Added Member To Class: ClassName=SAMA7G54_DDR3L Member=Component TP14
+Added Member To Class: ClassName=SAMA7G54_DDR3L Member=Component TP15
+Added Member To Class: ClassName=SAMA7G54_DDR3L Member=Component TP16
+Added Member To Class: ClassName=SAMA7G54_DDR3L Member=Component TP17
+Added Member To Class: ClassName=SAMA7G54_DDR3L Member=Component TP18
+Added Member To Class: ClassName=SAMA7G54_DDR3L Member=Component TP19

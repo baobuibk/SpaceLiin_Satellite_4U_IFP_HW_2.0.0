@@ -1,0 +1,46 @@
+Removed Member From Class: ClassName=SAMA7G54_PMIC Member=TP2
+Removed Member From Class: ClassName=SAMA7G54_PMIC Member=TP4
+Added Component: Designator=TP?(Testpoint_50)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP?(Testpoint_50)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin TP3-0
+Add Pin To Net: Unknown Pin: Pin TP5-0
+Add Pin To Net: Unknown Pin: Pin TP6-0
+Add Pin To Net: Unknown Pin: Pin TP7-0
+Add Pin To Net: Unknown Pin: Pin TP8-0
+Add Pin To Net: Unknown Pin: Pin TP9-0
+Add Pin To Net: Unknown Pin: Pin TP10-0
+Add Pin To Net: Unknown Pin: Pin TP11-0
+Add Pin To Net: Unknown Pin: Pin TP12-0
+Add Pin To Net: Unknown Pin: Pin TP13-0
+Add Pin To Net: Unknown Pin: Pin TP14-0
+Add Pin To Net: Unknown Pin: Pin TP15-0
+Add Pin To Net: Unknown Pin: Pin TP16-0
+Add Pin To Net: Unknown Pin: Pin TP17-0
+Add Pin To Net: Unknown Pin: Pin TP18-0
+Add Pin To Net: Unknown Pin: Pin TP19-0
+Add Pin To Net: Unknown Pin: Pin TP20-0
+Add Pin To Net: Unknown Pin: Pin TP21-0
+Add Pin To Net: Unknown Pin: Pin TP22-0
+Add Pin To Net: Unknown Pin: Pin TP23-0
+Add Pin To Net: Unknown Pin: Pin TP25-0
+Add Pin To Net: Unknown Pin: Pin TP?-0
+Add Pin To Net: Unknown Pin: Pin TP?-0
+Add Pin To Net: Unknown Pin: Pin TP?-0
+Added Member To Class: ClassName=SAMA7G54_PMIC Member=Component TP?
+Added Member To Class: ClassName=SAMA7G54_PMIC Member=Component TP?

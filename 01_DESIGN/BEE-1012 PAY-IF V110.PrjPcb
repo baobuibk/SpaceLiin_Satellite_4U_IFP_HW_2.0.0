@@ -38,8 +38,8 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-CrossRefSheetStyle=2
-CrossRefLocationStyle=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
 CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
@@ -55,7 +55,7 @@ AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=27
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -72,7 +72,7 @@ AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=28
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -89,7 +89,7 @@ AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -106,7 +106,7 @@ AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -140,7 +140,7 @@ AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=24
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -157,7 +157,7 @@ AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=25
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -174,7 +174,7 @@ AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=26
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -191,7 +191,7 @@ AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -203,46 +203,12 @@ GenerateClassCluster=0
 DocumentUniqueId=EEWZKRJH
 
 [Document10]
-DocumentPath=..\09_LIB\LABLIB.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document11]
-DocumentPath=..\09_LIB\LABLIB.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JFXOFFXT
-
-[Document12]
 DocumentPath=SAMA7G54_MPU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -253,13 +219,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HYAYKBTA
 
-[Document13]
+[Document11]
 DocumentPath=SAMA7G54_PIO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -270,13 +236,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUFBLVJS
 
-[Document14]
+[Document12]
 DocumentPath=SAMA7G54_DDR3L.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -287,13 +253,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HYAYHDIB
 
-[Document15]
+[Document13]
 DocumentPath=SDCARD_FLASH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=10
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -304,13 +270,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DMLEAAJZ
 
-[Document16]
+[Document14]
 DocumentPath=eMMC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=9
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -321,13 +287,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SPXKJCIS
 
-[Document17]
+[Document15]
 DocumentPath=COMM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=11
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -338,13 +304,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNXPWOLP
 
-[Document18]
+[Document16]
 DocumentPath=USB_SWITCH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=23
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -355,13 +321,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PXCYKYQC
 
-[Document19]
+[Document17]
 DocumentPath=DEBUG_CONSOLE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=12
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -372,13 +338,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LVGOZVIY
 
-[Document20]
+[Document18]
 DocumentPath=TEMP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=14
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -389,13 +355,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QQCVFFVD
 
-[Document21]
+[Document19]
 DocumentPath=RTC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=15
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -406,13 +372,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KIETNJGX
 
-[Document22]
+[Document20]
 DocumentPath=WATCHDOG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=16
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -423,13 +389,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MSYFSBBL
 
-[Document23]
+[Document21]
 DocumentPath=LVDS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=17
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -440,13 +406,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SAGNBFND
 
-[Document24]
+[Document22]
 DocumentPath=CAN_PHY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=18
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -457,13 +423,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QFISEEIR
 
-[Document25]
+[Document23]
 DocumentPath=RS485.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=20
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -474,13 +440,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KPYCLXDV
 
-[Document26]
+[Document24]
 DocumentPath=RS422.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=21
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -491,13 +457,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YVGYDKEZ
 
-[Document27]
+[Document25]
 DocumentPath=BUTTON_LED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=19
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -508,13 +474,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWGNPJPA
 
-[Document28]
+[Document26]
 DocumentPath=MOUNTING_HOLE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=22
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -525,13 +491,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EQHEAIRF
 
-[Document29]
+[Document27]
 DocumentPath=FPGA_POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=29
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -542,13 +508,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UBICAEMT
 
-[Document30]
+[Document28]
 DocumentPath=FPGA_PART1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=30
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -559,13 +525,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NJWCENIN
 
-[Document31]
+[Document29]
 DocumentPath=FPGA_PART2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=31
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -576,13 +542,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RDECIMHD
 
-[Document32]
+[Document30]
 DocumentPath=FPGA_extFLASH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=32
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -593,13 +559,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QRIQIPVG
 
-[Document33]
+[Document31]
 DocumentPath=ChangeNote.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
-AnnotateScope=All
+AnnotateScope=Only Selected Parts
 AnnotateOrder=33
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
@@ -610,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UBQRCWSO
 
-[Document34]
+[Document32]
 DocumentPath=PAY_IF_BOM.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -627,58 +593,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
-DocumentPath=BEE-1012 PAY-IF V1.0.0.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RXBPTTTX
-
-[Document36]
-DocumentPath=..\09_LIB\IFBpcblib.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NLFALNWU
-
-[Document37]
-DocumentPath=..\09_LIB\IFBschelib.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FHPDRRPR
-
-[Document38]
+[Document33]
 DocumentPath=PAY_IF.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -695,7 +610,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document34]
 DocumentPath=Project Outputs for PAY_IF\CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -712,7 +627,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document35]
 DocumentPath=Project Outputs for PAY_IF\CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -729,7 +644,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document36]
 DocumentPath=..\05_SMT\BEE-1012 PAY-IFB V100.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -746,7 +661,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UAIBTCHR
 
-[Document42]
+[Document37]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\FSUSB42MUX\FSUSB42MUX\FSUSB42MUX.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -763,7 +678,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LREJABCL
 
-[Document43]
+[Document38]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\FSUSB42MUX\FSUSB42MUX\SOP50P490X110-10N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -780,7 +695,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PNFXWUPH
 
-[Document44]
+[Document39]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\LFD2NX_17_7MG121I\Altium\LFD2NX-17-7MG121I\LFD2NX-17-7MG121I.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -797,7 +712,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XAUENVOX
 
-[Document45]
+[Document40]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\LFD2NX_17_7MG121I\Altium\LFD2NX-17-7MG121I\LFD2NX-17-7MG121I.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -814,7 +729,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CHKKAPFK
 
-[Document46]
+[Document41]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\S25FL128LAGMFI010\Altium\S25FL128LAGMFI010\S25FL128LAGMFI010.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -831,7 +746,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EDYBYKCG
 
-[Document47]
+[Document42]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\S25FL128LAGMFI010\Altium\S25FL128LAGMFI010\S25FL128LAGMFI010.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -848,7 +763,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LHITAWHX
 
-[Document48]
+[Document43]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\DSC1103CI2_180_0000T\Altium\DSC1103CI2-180P0000T.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -865,7 +780,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TRRUIMRC
 
-[Document49]
+[Document44]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\DSC1103CI2_180_0000T\Altium\DSC1103CI2-180P0000T.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -882,7 +797,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AVENQHQK
 
-[Document50]
+[Document45]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\TLV75518PDBVR\TLV75518PDBVR\SOT95P280X145-5N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -899,7 +814,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DSNPRDOL
 
-[Document51]
+[Document46]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\TLV75518PDBVR\TLV75518PDBVR\TLV75518PDBVR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -916,7 +831,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CCGTFIMD
 
-[Document52]
+[Document47]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\TLV75510PDBVR\Altium\TLV75510PDBVR\TLV75510PDBVR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -933,7 +848,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XFQNQCPA
 
-[Document53]
+[Document48]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\TLV75510PDBVR\Altium\TLV75510PDBVR\TLV75510PDBVR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -950,7 +865,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FNAYKQMG
 
-[Document54]
+[Document49]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\SN74LV4052APWR\SN74LV4052APWR\SN74LV4052APWR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -967,7 +882,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PSBNNWNQ
 
-[Document55]
+[Document50]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\SN74LV4052APWR\SN74LV4052APWR\SOP65P640X120-16N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -983,6 +898,125 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GVYGCFHY
+
+[Document51]
+DocumentPath=BEE-1012 PAY-IF V1.1.0.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UMSAZYOV
+
+[Document52]
+DocumentPath=G:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\LABLIB.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GFWWSLYY
+
+[Document53]
+DocumentPath=G:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\LABLIB.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document54]
+DocumentPath=..\..\..\1_PAY_IFB_V1\01_DESIGN\PAY_IFB_LIB\IFBpcblib.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NLFALNWU
+
+[Document55]
+DocumentPath=..\..\..\1_PAY_IFB_V1\01_DESIGN\PAY_IFB_LIB\IFBschelib.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FHPDRRPR
+
+[Document56]
+DocumentPath=..\09_LIB\IFBpcblib_offline.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RZHRNLTD
+
+[Document57]
+DocumentPath=..\09_LIB\IFBschelib_offline.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for PAY_IF\BEE-1012 PAY-IF V1.0.0.DRR
@@ -1145,18 +1179,26 @@ DocumentPath=Project Outputs for PAY_IF\Design Rule Check - BEE-1012 PAY-IF V1.0
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for PAY_IFB\Design Rule Check - PAY_IFP_V1.html
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\Design Rule Check - BEE-1012 PAY-IF V1.1.html
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for PAY_IFB\Net Status - PAY_IFP_V1.html
+DocumentPath=Project Outputs for PAY_IFB\Design Rule Check - PAY_IFP_V1.html
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for PAY_IF\Pick Place for BEE-1012 PAY-IF V1.0.0.csv
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\Net Status - BEE-1012 PAY-IF V1.1.html
 DItemRevisionGUID=
 
 [GeneratedDocument44]
+DocumentPath=Project Outputs for PAY_IFB\Net Status - PAY_IFP_V1.html
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for PAY_IF\Pick Place for BEE-1012 PAY-IF V1.0.0.csv
+DItemRevisionGUID=
+
+[GeneratedDocument46]
 DocumentPath=Project Outputs for PAY_IF\Pick Place for BEE-1012 PAY-IF V1.0.0.txt
 DItemRevisionGUID=
 
@@ -1624,11 +1666,6 @@ OutputName9=Report Single Pin Nets
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
-OutputType10=BOM_ReportManufacturing
-OutputName10=Manufacturing Data
-OutputDocumentPath10=
-OutputVariantName10=[No Variations]
-OutputDefault10=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1751,11 +1788,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=AnsysEDB
-OutputName13=Ansys EDB
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1928,8 +1960,6 @@ Type156=1
 Type157=1
 Type158=1
 Type159=1
-Type160=1
-Type161=1
 
 [Difference Levels]
 Type1=1
@@ -2019,7 +2049,6 @@ Type84=1
 Type85=1
 Type86=1
 Type87=1
-Type88=1
 
 [Electrical Rules Check]
 Type1=1
@@ -2185,8 +2214,6 @@ Type160=0
 Type161=0
 Type162=1
 Type163=1
-Type164=1
-Type165=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW

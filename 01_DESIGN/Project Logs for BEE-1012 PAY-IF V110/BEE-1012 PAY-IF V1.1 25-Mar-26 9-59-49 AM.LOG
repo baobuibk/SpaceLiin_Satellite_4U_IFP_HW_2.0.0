@@ -1,0 +1,113 @@
+Added Component: Designator=TP6(Test point)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP7(Test point)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP8(Test point)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP9(Test point)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP10(Test point)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP12(Test point)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP13(Test point)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP14(Test point)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP15(Test point)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP23(Test point)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_1V15_OUT4 Pin=TP6-0
+Added Pin To Net: NetName=VLDO1 Pin=TP7-0
+Added Pin To Net: NetName=VLDO2 Pin=TP8-0
+Added Pin To Net: NetName=VDD_3V3_MPU Pin=TP9-0
+Added Pin To Net: NetName=VDDIODDR Pin=TP10-0
+Added Pin To Net: NetName=DDR_D0 Pin=TP12-0
+Added Pin To Net: NetName=DDR_D8 Pin=TP13-0
+Added Pin To Net: NetName=DDR_CK_P Pin=TP14-0
+Added Pin To Net: NetName=DDR_CK_N Pin=TP15-0
+Add Pin To Net: Unknown Pin: Pin TP16-0
+Added Pin To Net: NetName=GND Pin=TP23-0
+Add Pin To Net: Unknown Pin: Pin TP24-0
+Add Pin To Net: Unknown Pin: Pin TP25-0
+Added Member To Class: ClassName=SAMA7G54_PMIC Member=Component TP6
+Added Member To Class: ClassName=SAMA7G54_PMIC Member=Component TP7
+Added Member To Class: ClassName=SAMA7G54_PMIC Member=Component TP8
+Added Member To Class: ClassName=SAMA7G54_PMIC Member=Component TP9
+Added Member To Class: ClassName=SAMA7G54_PMIC Member=Component TP10
+Added Member To Class: ClassName=SAMA7G54_DDR3L Member=Component TP12
+Added Member To Class: ClassName=SAMA7G54_DDR3L Member=Component TP13
+Added Member To Class: ClassName=SAMA7G54_DDR3L Member=Component TP14
+Added Member To Class: ClassName=SAMA7G54_DDR3L Member=Component TP15
+Added Member To Class: ClassName=SAMA7G54_DDR3L Member=Component TP23

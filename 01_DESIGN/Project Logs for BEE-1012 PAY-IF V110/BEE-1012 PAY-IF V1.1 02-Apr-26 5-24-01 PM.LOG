@@ -1,0 +1,13 @@
+Added Member To Class: ClassName=DIFF100 Member=Wire SubSPW_LVDS_DIN_N
+Added Member To Class: ClassName=DIFF100 Member=Wire SubSPW_LVDS_DIN_P
+Added Member To Class: ClassName=DIFF100 Member=Wire SubSPW_LVDS_DOUT_N
+Added Member To Class: ClassName=DIFF100 Member=Wire SubSPW_LVDS_DOUT_P
+Added Member To Class: ClassName=DIFF100 Member=Wire SubSPW_LVDS_SIN_N
+Added Member To Class: ClassName=DIFF100 Member=Wire SubSPW_LVDS_SIN_P
+Added Member To Class: ClassName=DIFF100 Member=Wire SubSPW_LVDS_SOUT_N
+Added Rule: Name=Schematic Matched Net Lengths
+Added Rule: Name=Schematic Matched Net Lengths_6
+Added Member To Class: ClassName=DIFF100 Member=SubSPW_LVDS_DIN
+Added Member To Class: ClassName=DIFF100 Member=SubSPW_LVDS_DOUT
+Added Member To Class: ClassName=DIFF100 Member=SubSPW_LVDS_SIN
+Added Member To Class: ClassName=DIFF100 Member=SubSPW_LVDS_SOUT

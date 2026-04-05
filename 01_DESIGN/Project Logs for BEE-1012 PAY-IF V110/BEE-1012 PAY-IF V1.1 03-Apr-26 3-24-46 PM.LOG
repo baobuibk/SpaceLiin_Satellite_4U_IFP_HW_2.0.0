@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=R20 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005x30_L
+Added Member To Class: ClassName=SAMA7G54_MPU Member=Component R25 20k

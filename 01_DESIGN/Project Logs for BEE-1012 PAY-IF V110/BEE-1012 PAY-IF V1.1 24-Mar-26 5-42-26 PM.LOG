@@ -1,0 +1,319 @@
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Member From Class: ClassName=TEMP Member=C153
+Removed Member From Class: ClassName=TEMP Member=C155
+Removed Member From Class: ClassName=TEMP Member=C157
+Removed Member From Class: ClassName=TEMP Member=C159
+Removed Member From Class: ClassName=TEMP Member=C161
+Removed Member From Class: ClassName=TEMP Member=C162
+Removed Member From Class: ClassName=LVDS Member=C166
+Removed Member From Class: ClassName=SDCARD_FLASH Member=C166
+Removed Member From Class: ClassName=LVDS Member=C168
+Removed Member From Class: ClassName=TEMP Member=C168
+Removed Member From Class: ClassName=RS422 Member=C180
+Removed Member From Class: ClassName=CAN_PHY Member=C184
+Removed Member From Class: ClassName=CAN_PHY Member=C186
+Removed Member From Class: ClassName=BUTTON_LED Member=D6
+Removed Member From Class: ClassName=BUTTON_LED Member=D11
+Removed Member From Class: ClassName=POWER Member=D14
+Removed Member From Class: ClassName=SAMA7G54_MPU Member=JP6
+Removed Member From Class: ClassName=SAMA7G54_DDR3L Member=R191
+Removed Member From Class: ClassName=SAMA7G54_DDR3L Member=R194
+Removed Member From Class: ClassName=SAMA7G54_PIO Member=R211
+Removed Member From Class: ClassName=SAMA7G54_PIO Member=R212
+Removed Member From Class: ClassName=eMMC Member=R215
+Removed Member From Class: ClassName=eMMC Member=R216
+Removed Member From Class: ClassName=SDCARD_FLASH Member=R220
+Removed Member From Class: ClassName=SDCARD_FLASH Member=R221
+Removed Member From Class: ClassName=COMM Member=R228
+Removed Member From Class: ClassName=DEBUG_CONSOLE Member=R234
+Removed Member From Class: ClassName=eMMC Member=R237
+Removed Member From Class: ClassName=TEMP Member=R237
+Removed Member From Class: ClassName=TEMP Member=R244
+Removed Member From Class: ClassName=TEMP Member=R245
+Removed Member From Class: ClassName=TEMP Member=R246
+Removed Member From Class: ClassName=TEMP Member=R247
+Removed Member From Class: ClassName=TEMP Member=R248
+Removed Member From Class: ClassName=TEMP Member=R249
+Removed Member From Class: ClassName=TEMP Member=R250
+Removed Member From Class: ClassName=SAMA7G54_PIO Member=R251
+Removed Member From Class: ClassName=eMMC Member=R252
+Removed Member From Class: ClassName=RTC Member=R252
+Removed Member From Class: ClassName=eMMC Member=R253
+Removed Member From Class: ClassName=RTC Member=R253
+Removed Member From Class: ClassName=eMMC Member=R254
+Removed Member From Class: ClassName=RTC Member=R254
+Removed Member From Class: ClassName=eMMC Member=R257
+Removed Member From Class: ClassName=WATCHDOG Member=R257
+Removed Member From Class: ClassName=eMMC Member=R258
+Removed Member From Class: ClassName=WATCHDOG Member=R258
+Removed Member From Class: ClassName=SAMA7G54_PIO Member=R259
+Removed Member From Class: ClassName=SAMA7G54_PIO Member=R260
+Removed Member From Class: ClassName=SAMA7G54_PIO Member=R261
+Removed Member From Class: ClassName=SAMA7G54_PIO Member=R262
+Removed Member From Class: ClassName=DEBUG_CONSOLE Member=R264
+Removed Member From Class: ClassName=RS422 Member=R264
+Removed Member From Class: ClassName=SAMA7G54_DDR3L Member=R264
+Removed Member From Class: ClassName=SAMA7G54_PIO Member=R265
+Removed Member From Class: ClassName=SAMA7G54_PIO Member=R266
+Removed Member From Class: ClassName=SAMA7G54_PIO Member=R267
+Removed Member From Class: ClassName=SAMA7G54_PIO Member=R269
+Removed Member From Class: ClassName=SAMA7G54_PIO Member=R271
+Removed Member From Class: ClassName=eMMC Member=R272
+Removed Member From Class: ClassName=WATCHDOG Member=R272
+Removed Member From Class: ClassName=SDCARD_FLASH Member=R273
+Removed Member From Class: ClassName=eMMC Member=R274
+Removed Member From Class: ClassName=LVDS Member=R274
+Removed Member From Class: ClassName=CAN_PHY Member=R275
+Removed Member From Class: ClassName=COMM Member=R275
+Removed Member From Class: ClassName=SDCARD_FLASH Member=R276
+Removed Member From Class: ClassName=eMMC Member=R277
+Removed Member From Class: ClassName=LVDS Member=R277
+Removed Member From Class: ClassName=COMM Member=R278
+Removed Member From Class: ClassName=CAN_PHY Member=R281
+Removed Member From Class: ClassName=SDCARD_FLASH Member=R281
+Removed Member From Class: ClassName=CAN_PHY Member=R282
+Removed Member From Class: ClassName=SDCARD_FLASH Member=R282
+Removed Member From Class: ClassName=BUTTON_LED Member=R283
+Removed Member From Class: ClassName=RS422 Member=R284
+Removed Member From Class: ClassName=CAN_PHY Member=R285
+Removed Member From Class: ClassName=SDCARD_FLASH Member=R285
+Removed Member From Class: ClassName=CAN_PHY Member=R286
+Removed Member From Class: ClassName=SDCARD_FLASH Member=R286
+Removed Member From Class: ClassName=CAN_PHY Member=R287
+Removed Member From Class: ClassName=COMM Member=R287
+Removed Member From Class: ClassName=SAMA7G54_PIO Member=R288
+Removed Member From Class: ClassName=CAN_PHY Member=R290
+Removed Member From Class: ClassName=COMM Member=R290
+Removed Member From Class: ClassName=SAMA7G54_PIO Member=R291
+Removed Member From Class: ClassName=BUTTON_LED Member=R292
+Removed Member From Class: ClassName=BUTTON_LED Member=R293
+Removed Member From Class: ClassName=SAMA7G54_PIO Member=R294
+Removed Member From Class: ClassName=RS422 Member=R295
+Removed Member From Class: ClassName=SAMA7G54_PIO Member=R297
+Removed Member From Class: ClassName=SAMA7G54_PIO Member=R298
+Removed Member From Class: ClassName=RS422 Member=R299
+Removed Member From Class: ClassName=TEMP Member=R299
+Removed Member From Class: ClassName=USB_SWITCH Member=R300
+Removed Member From Class: ClassName=USB_SWITCH Member=R301
+Removed Member From Class: ClassName=USB_SWITCH Member=R302
+Removed Member From Class: ClassName=USB_SWITCH Member=R303
+Removed Member From Class: ClassName=POWER Member=R304
+Removed Member From Class: ClassName=TEMP Member=R304
+Removed Member From Class: ClassName=USB_SWITCH Member=SB3
+Removed Member From Class: ClassName=COMM Member=U15
+Removed Member From Class: ClassName=TEMP Member=U15
+Removed Member From Class: ClassName=TEMP Member=U17
+Removed Member From Class: ClassName=LVDS Member=U22
+Removed Member From Class: ClassName=TEMP Member=U22
+Removed Member From Class: ClassName=WATCHDOG Member=U22
+Removed Member From Class: ClassName=LVDS Member=U27
+Removed Member From Class: ClassName=RS422 Member=U27
+Change Footprint: Cannot match pads with new footprint in component :U6 Footprint:SOIC127P790X216-8
+Change Footprint: Footprint Not Found SOT95P280X145-6N
+Add component: Footprint Not Found SOT95P280X145-6N
+Add Pin To Net: Unknown Pin: Pin TP1-0
+Add Pin To Net: Unknown Pin: Pin TP2-0
+Add Pin To Net: Unknown Pin: Pin TP3-0
+Add Pin To Net: Unknown Pin: Pin TP4-0
+Add Pin To Net: Unknown Pin: Pin TP5-0
+Add Pin To Net: Unknown Pin: Pin TP6-0
+Add Pin To Net: Unknown Pin: Pin TP7-0
+Add Pin To Net: Unknown Pin: Pin TP8-0
+Add Pin To Net: Unknown Pin: Pin TP9-0
+Add Pin To Net: Unknown Pin: Pin TP10-0
+Add Pin To Net: Unknown Pin: Pin TP11-0
+Add Pin To Net: Unknown Pin: Pin TP12-0
+Add Pin To Net: Unknown Pin: Pin TP13-0
+Add Pin To Net: Unknown Pin: Pin TP14-0
+Add Pin To Net: Unknown Pin: Pin TP15-0
+Add Pin To Net: Unknown Pin: Pin TP16-0
+Add Pin To Net: Unknown Pin: Pin TP17-0
+Add Pin To Net: Unknown Pin: Pin TP18-0
+Add Pin To Net: Unknown Pin: Pin TP19-0
+Add Pin To Net: Unknown Pin: Pin TP20-0
+Add Pin To Net: Unknown Pin: Pin TP21-0
+Add Pin To Net: Unknown Pin: Pin TP22-0
+Add Pin To Net: Unknown Pin: Pin TP23-0
+Add Pin To Net: Unknown Pin: Pin TP25-0
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Add Pin To Net: Unknown Pin: Pin U8-1
+Add Pin To Net: Unknown Pin: Pin U8-2
+Add Pin To Net: Unknown Pin: Pin U8-4
+Add Pin To Net: Unknown Pin: Pin U8-5
+Add Pin To Net: Unknown Pin: Pin U8-6
+Added Member To Class: ClassName=SDCARD_FLASH Member=Component C133 1uF/20V
+Added Member To Class: ClassName=COMM Member=Component C136 0.1uF/10V
+Added Member To Class: ClassName=COMM Member=Component C137 0.1uF/10V
+Added Member To Class: ClassName=DEBUG_CONSOLE Member=Component C138 0.1uF/10V
+Added Member To Class: ClassName=TEMP Member=Component C139 1uF/20V
+Added Member To Class: ClassName=TEMP Member=Component C140 1uF/20V
+Added Member To Class: ClassName=TEMP Member=Component C143 1uF/20V
+Added Member To Class: ClassName=TEMP Member=Component C144 0.1uF/10V
+Added Member To Class: ClassName=TEMP Member=Component C145 0.1uF/10V
+Added Member To Class: ClassName=TEMP Member=Component C146 0.1uF/10V
+Added Member To Class: ClassName=TEMP Member=Component C147 0.1uF/10V
+Added Member To Class: ClassName=TEMP Member=Component C148 0.1uF/10V
+Added Member To Class: ClassName=TEMP Member=Component C149 0.1uF/10V
+Added Member To Class: ClassName=TEMP Member=Component C150 0.1uF/10V
+Added Member To Class: ClassName=TEMP Member=Component C151 0.1uF/10V
+Added Member To Class: ClassName=RTC Member=Component C154 0.1uF/10V
+Added Member To Class: ClassName=LVDS Member=Component C156 1uF/20V
+Added Member To Class: ClassName=LVDS Member=Component C158 1uF/20V
+Added Member To Class: ClassName=LVDS Member=Component C160 1uF/20V
+Added Member To Class: ClassName=LVDS Member=Component C163 0.1uF/20V
+Added Member To Class: ClassName=CAN_PHY Member=Component C164 0.1uF/10V
+Added Member To Class: ClassName=CAN_PHY Member=Component C165 0.1uF/10V
+Added Member To Class: ClassName=CAN_PHY Member=Component C167 0.1uF/10V
+Added Member To Class: ClassName=CAN_PHY Member=Component C169 0.1uF/10V
+Added Member To Class: ClassName=RS422 Member=Component C171 0.1uF/10V
+Added Member To Class: ClassName=USB_SWITCH Member=Component C173 0.1uF/10V
+Added Member To Class: ClassName=POWER Member=Component C174 47uF/25V
+Added Member To Class: ClassName=POWER Member=Component C175 47uF/25V
+Added Member To Class: ClassName=POWER Member=Component C176 47uF/25V
+Added Member To Class: ClassName=POWER Member=Component C177 1uF/20V
+Added Member To Class: ClassName=POWER Member=Component C178 2.2nF/10V
+Added Member To Class: ClassName=POWER Member=Component C179 2.2nF/10V
+Added Member To Class: ClassName=POWER Member=Component C181 10uF/20V
+Added Member To Class: ClassName=POWER Member=Component C182 10uF/20V
+Added Member To Class: ClassName=DEBUG_CONSOLE Member=Component D2 LTST-C281TBKT
+Added Member To Class: ClassName=BUTTON_LED Member=Component D3 LTST-C281TBKT
+Added Member To Class: ClassName=BUTTON_LED Member=Component D4 LTST-C281KGKT
+Added Member To Class: ClassName=BUTTON_LED Member=Component D5 LTST-C281KRKT
+Added Member To Class: ClassName=POWER Member=Component D7 SS54
+Added Member To Class: ClassName=POWER Member=Component D8 1N4148W-TP
+Added Member To Class: ClassName=POWER Member=Component D9 SS54
+Added Member To Class: ClassName=POWER Member=Component D12 LTST-C281KGKT
+Added Member To Class: ClassName=SAMA7G54_MPU Member=Component JP3
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R45 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R47 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R49 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R51 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R52 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R53 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R75 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R77 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R94 DNP/10k
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R109 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R114 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R115 DNP/10k
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R116 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R117 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R118 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R119 DNP/10k
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R120 22R
+Added Member To Class: ClassName=SAMA7G54_DDR3L Member=Component R158 240R
+Added Member To Class: ClassName=SAMA7G54_DDR3L Member=Component R159 1k
+Added Member To Class: ClassName=SAMA7G54_DDR3L Member=Component R160 1k
+Added Member To Class: ClassName=eMMC Member=Component R161 10k
+Added Member To Class: ClassName=eMMC Member=Component R164 10k
+Added Member To Class: ClassName=eMMC Member=Component R165 10k
+Added Member To Class: ClassName=eMMC Member=Component R166 10k
+Added Member To Class: ClassName=eMMC Member=Component R167 10k
+Added Member To Class: ClassName=eMMC Member=Component R168 10k
+Added Member To Class: ClassName=eMMC Member=Component R169 10k
+Added Member To Class: ClassName=eMMC Member=Component R170 10k
+Added Member To Class: ClassName=eMMC Member=Component R171 10k
+Added Member To Class: ClassName=eMMC Member=Component R172 100k
+Added Member To Class: ClassName=eMMC Member=Component R173 100R
+Added Member To Class: ClassName=SDCARD_FLASH Member=Component R174 4.7k
+Added Member To Class: ClassName=SDCARD_FLASH Member=Component R175 10k
+Added Member To Class: ClassName=SDCARD_FLASH Member=Component R176 10k
+Added Member To Class: ClassName=SDCARD_FLASH Member=Component R177 10k
+Added Member To Class: ClassName=SDCARD_FLASH Member=Component R178 10k
+Added Member To Class: ClassName=SDCARD_FLASH Member=Component R179 10k
+Added Member To Class: ClassName=SDCARD_FLASH Member=Component R180 10k
+Added Member To Class: ClassName=SDCARD_FLASH Member=Component R181 10k
+Added Member To Class: ClassName=COMM Member=Component R182 2.2k
+Added Member To Class: ClassName=COMM Member=Component R184 2.2k
+Added Member To Class: ClassName=COMM Member=Component R185 4.7k
+Added Member To Class: ClassName=COMM Member=Component R186 4.7k
+Added Member To Class: ClassName=COMM Member=Component R187 4.7k
+Added Member To Class: ClassName=DEBUG_CONSOLE Member=Component R192 1k
+Added Member To Class: ClassName=DEBUG_CONSOLE Member=Component R193 10k
+Added Member To Class: ClassName=TEMP Member=Component R195 22R
+Added Member To Class: ClassName=TEMP Member=Component R196 22R
+Added Member To Class: ClassName=TEMP Member=Component R200 10k
+Added Member To Class: ClassName=TEMP Member=Component R201 10k
+Added Member To Class: ClassName=TEMP Member=Component R202 22R
+Added Member To Class: ClassName=TEMP Member=Component R203 22R
+Added Member To Class: ClassName=TEMP Member=Component R204 22R
+Added Member To Class: ClassName=TEMP Member=Component R205 22R
+Added Member To Class: ClassName=TEMP Member=Component R206 10k
+Added Member To Class: ClassName=TEMP Member=Component R207 10k
+Added Member To Class: ClassName=RTC Member=Component R208 4.7k
+Added Member To Class: ClassName=RTC Member=Component R209 4.7k
+Added Member To Class: ClassName=RTC Member=Component R210 4.7k
+Added Member To Class: ClassName=WATCHDOG Member=Component R213 22R
+Added Member To Class: ClassName=WATCHDOG Member=Component R214 22R
+Added Member To Class: ClassName=WATCHDOG Member=Component R217 16.5k
+Added Member To Class: ClassName=LVDS Member=Component R218 100R/DNP
+Added Member To Class: ClassName=LVDS Member=Component R219 100R/DNP
+Added Member To Class: ClassName=CAN_PHY Member=Component R222 60R
+Added Member To Class: ClassName=CAN_PHY Member=Component R223 22R
+Added Member To Class: ClassName=CAN_PHY Member=Component R224 60R
+Added Member To Class: ClassName=CAN_PHY Member=Component R225 10k
+Added Member To Class: ClassName=CAN_PHY Member=Component R226 60R
+Added Member To Class: ClassName=CAN_PHY Member=Component R227 22R
+Added Member To Class: ClassName=CAN_PHY Member=Component R229 10k
+Added Member To Class: ClassName=BUTTON_LED Member=Component R230 1k
+Added Member To Class: ClassName=BUTTON_LED Member=Component R231 1k
+Added Member To Class: ClassName=BUTTON_LED Member=Component R232 1k
+Added Member To Class: ClassName=RS422 Member=Component R233 4.7k
+Added Member To Class: ClassName=RS422 Member=Component R235 DNP/4.7k
+Added Member To Class: ClassName=RS422 Member=Component R236 DNP/120R
+Added Member To Class: ClassName=RS422 Member=Component R238 4.7k
+Added Member To Class: ClassName=USB_SWITCH Member=Component R239 4.7k
+Added Member To Class: ClassName=USB_SWITCH Member=Component R240 4.7k
+Added Member To Class: ClassName=USB_SWITCH Member=Component R241 4.7k
+Added Member To Class: ClassName=USB_SWITCH Member=Component R242 4.7k
+Added Member To Class: ClassName=POWER Member=Component R243 47k
+Added Member To Class: ClassName=USB_SWITCH Member=Component SB4 JUMPER
+Add Class Member: Failed to add class member : Component U8 IP4220CZ6
+Added Member To Class: ClassName=COMM Member=Component U9 SN74LV4052APWR
+Added Member To Class: ClassName=TEMP Member=Component U12 TC1047AVNBTR
+Added Member To Class: ClassName=TEMP Member=Component U13 OPA2340UA
+Added Member To Class: ClassName=TEMP Member=Component U14 OPA2340UA
+Added Member To Class: ClassName=WATCHDOG Member=Component U16 TPL5010DDCR
+Added Member To Class: ClassName=LVDS Member=Component U18 DS90LV011AQ-Q1
+Added Member To Class: ClassName=LVDS Member=Component U19 DS90LT012AQ-Q1
+Added Member To Class: ClassName=LVDS Member=Component U20 DS90LT012AQ-Q1
+Added Member To Class: ClassName=CAN_PHY Member=Component U21 SN65HVD230DR
+Added Member To Class: ClassName=RS422 Member=Component U23 LTC2865HMSE#TRPBF

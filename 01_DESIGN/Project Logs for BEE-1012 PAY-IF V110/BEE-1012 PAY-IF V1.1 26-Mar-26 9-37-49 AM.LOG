@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C104 Old Footprint=CAP_C_0603x30 New Footprint=CAP_C_1005X50_L
+Change Component Footprint: Designator=C112 Old Footprint=CAP_C_0603x30 New Footprint=CAP_C_1005X50_L
+Change Component Footprint: Designator=R159 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R160 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005X40
