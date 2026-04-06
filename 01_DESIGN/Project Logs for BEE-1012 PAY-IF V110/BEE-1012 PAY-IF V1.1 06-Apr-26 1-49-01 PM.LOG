@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=NetR291_1 New Net Name=IF_OUT_CONN_USB_N
+Change Net Name : Old Net Name=NetR294_1 New Net Name=IF_OUT_CONN_USB_P
+Added Differential Pair: Name=IF_OUT_CONN_USB
+Added Member To Class: ClassName=DIFF90 Member=Wire IF_OUT_CONN_USB_N
+Added Member To Class: ClassName=DIFF90 Member=Wire IF_OUT_CONN_USB_P
+Added Member To Class: ClassName=DIFF90 Member=IF_OUT_CONN_USB

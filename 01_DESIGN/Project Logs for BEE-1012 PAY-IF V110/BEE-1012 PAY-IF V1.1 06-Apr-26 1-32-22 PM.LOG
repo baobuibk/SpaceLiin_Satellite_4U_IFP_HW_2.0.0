@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=DIFF90 Member=NetR291_1
+Removed Member From Class: ClassName=DIFF90 Member=NetR294_1
+Added Pin To Net: NetName=NetR291_1 Pin=U24-6
+Added Pin To Net: NetName=NetR294_1 Pin=U24-7

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=EXP_RS422_PASSTHR_RX+ Pin=R276-1
+Removed Pin From Net: NetName=EXP_RS422_PASSTHR_RX- Pin=R278-1
+Removed Pin From Net: NetName=EXP_RS422_PASSTHR_RX+ Pin=R285-1
+Removed Pin From Net: NetName=EXP_RS422_PASSTHR_RX- Pin=R286-2
+Added Component: Designator=R?(RES_C_1005x30_L)
+Added Component: Designator=R?(RES_C_1005x30_L)
+Added Pin To Net: NetName=EXP_RS422_PASSTHR_RX- Pin=R276-1
+Added Pin To Net: NetName=EXP_RS422_PASSTHR_RX+ Pin=R278-1
+Added Pin To Net: NetName=EXP_RS422_PASSTHR_RX- Pin=R285-1
+Added Pin To Net: NetName=EXP_RS422_PASSTHR_RX+ Pin=R286-2
+Added Pin To Net: NetName=NetR140_1 Pin=R?-1
+Added Pin To Net: NetName=NetR142_1 Pin=R?-1
+Added Pin To Net: NetName=3V3_COM Pin=R?-2
+Added Pin To Net: NetName=3V3_COM Pin=R?-2
+Added Member To Class: ClassName=CONNECTOR_INTERFACE Member=Component R? DNP/4.7k
+Added Member To Class: ClassName=CONNECTOR_INTERFACE Member=Component R? DNP/4.7k
