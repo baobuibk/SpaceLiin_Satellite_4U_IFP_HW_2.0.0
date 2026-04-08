@@ -152,6 +152,23 @@ GenerateClassCluster=0
 DocumentUniqueId=OELXXNZB
 
 [Document7]
+DocumentPath=POWER_MEASUREMENT.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=35
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EUWWZLRE
+
+[Document8]
 DocumentPath=CONNECTOR_EXP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IINFVALY
 
-[Document8]
+[Document9]
 DocumentPath=CONNECTOR_INTERFACE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HGZBPBQK
 
-[Document9]
+[Document10]
 DocumentPath=SAMA7G54_PMIC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EEWZKRJH
 
-[Document10]
+[Document11]
 DocumentPath=SAMA7G54_MPU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HYAYKBTA
 
-[Document11]
+[Document12]
 DocumentPath=SAMA7G54_PIO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUFBLVJS
 
-[Document12]
+[Document13]
 DocumentPath=SAMA7G54_DDR3L.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HYAYHDIB
 
-[Document13]
+[Document14]
 DocumentPath=SDCARD_FLASH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DMLEAAJZ
 
-[Document14]
+[Document15]
 DocumentPath=eMMC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SPXKJCIS
 
-[Document15]
+[Document16]
 DocumentPath=COMM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNXPWOLP
 
-[Document16]
+[Document17]
 DocumentPath=USB_SWITCH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PXCYKYQC
 
-[Document17]
+[Document18]
 DocumentPath=DEBUG_CONSOLE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LVGOZVIY
 
-[Document18]
+[Document19]
 DocumentPath=TEMP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QQCVFFVD
 
-[Document19]
+[Document20]
 DocumentPath=RTC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KIETNJGX
 
-[Document20]
+[Document21]
 DocumentPath=WATCHDOG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MSYFSBBL
 
-[Document21]
+[Document22]
 DocumentPath=LVDS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SAGNBFND
 
-[Document22]
+[Document23]
 DocumentPath=CAN_PHY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QFISEEIR
 
-[Document23]
+[Document24]
 DocumentPath=IMU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QGDBPXUL
 
-[Document24]
+[Document25]
 DocumentPath=RS485.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KPYCLXDV
 
-[Document25]
+[Document26]
 DocumentPath=RS422.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YVGYDKEZ
 
-[Document26]
+[Document27]
 DocumentPath=BUTTON_LED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWGNPJPA
 
-[Document27]
+[Document28]
 DocumentPath=MOUNTING_HOLE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EQHEAIRF
 
-[Document28]
+[Document29]
 DocumentPath=FPGA_POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UBICAEMT
 
-[Document29]
+[Document30]
 DocumentPath=FPGA_PART1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NJWCENIN
 
-[Document30]
+[Document31]
 DocumentPath=FPGA_PART2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RDECIMHD
 
-[Document31]
+[Document32]
 DocumentPath=FPGA_extFLASH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,7 +593,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QRIQIPVG
 
-[Document32]
+[Document33]
 DocumentPath=ChangeNote.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -593,7 +610,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UBQRCWSO
 
-[Document33]
+[Document34]
 DocumentPath=PAY_IF_BOM.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -610,7 +627,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document35]
 DocumentPath=PAY_IF.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -627,7 +644,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document36]
 DocumentPath=Project Outputs for PAY_IF\CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -644,7 +661,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document37]
 DocumentPath=..\05_SMT\BEE-1012 PAY-IFB V100.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -661,7 +678,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UAIBTCHR
 
-[Document37]
+[Document38]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\FSUSB42MUX\FSUSB42MUX\FSUSB42MUX.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -678,7 +695,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LREJABCL
 
-[Document38]
+[Document39]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\FSUSB42MUX\FSUSB42MUX\SOP50P490X110-10N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -695,7 +712,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PNFXWUPH
 
-[Document39]
+[Document40]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\LFD2NX_17_7MG121I\Altium\LFD2NX-17-7MG121I\LFD2NX-17-7MG121I.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -712,7 +729,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XAUENVOX
 
-[Document40]
+[Document41]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\LFD2NX_17_7MG121I\Altium\LFD2NX-17-7MG121I\LFD2NX-17-7MG121I.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -729,7 +746,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CHKKAPFK
 
-[Document41]
+[Document42]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\S25FL128LAGMFI010\Altium\S25FL128LAGMFI010\S25FL128LAGMFI010.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -746,7 +763,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EDYBYKCG
 
-[Document42]
+[Document43]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\S25FL128LAGMFI010\Altium\S25FL128LAGMFI010\S25FL128LAGMFI010.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -763,7 +780,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LHITAWHX
 
-[Document43]
+[Document44]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\DSC1103CI2_180_0000T\Altium\DSC1103CI2-180P0000T.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -780,7 +797,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TRRUIMRC
 
-[Document44]
+[Document45]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\DSC1103CI2_180_0000T\Altium\DSC1103CI2-180P0000T.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -797,7 +814,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AVENQHQK
 
-[Document45]
+[Document46]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\TLV75518PDBVR\TLV75518PDBVR\SOT95P280X145-5N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -814,7 +831,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DSNPRDOL
 
-[Document46]
+[Document47]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\TLV75518PDBVR\TLV75518PDBVR\TLV75518PDBVR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -831,7 +848,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CCGTFIMD
 
-[Document47]
+[Document48]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\TLV75510PDBVR\Altium\TLV75510PDBVR\TLV75510PDBVR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -848,7 +865,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XFQNQCPA
 
-[Document48]
+[Document49]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\TLV75510PDBVR\Altium\TLV75510PDBVR\TLV75510PDBVR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -865,7 +882,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FNAYKQMG
 
-[Document49]
+[Document50]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\SN74LV4052APWR\SN74LV4052APWR\SN74LV4052APWR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -882,7 +899,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PSBNNWNQ
 
-[Document50]
+[Document51]
 DocumentPath=..\..\..\..\..\CPU\NEWVERSION\Lib\SN74LV4052APWR\SN74LV4052APWR\SOP65P640X120-16N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -899,7 +916,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GVYGCFHY
 
-[Document51]
+[Document52]
 DocumentPath=BEE-1012 PAY-IF V1.1.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -916,7 +933,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UMSAZYOV
 
-[Document52]
+[Document53]
 DocumentPath=Project Outputs for PAY_IF\CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -933,7 +950,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
+[Document54]
 DocumentPath=G:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\LABLIB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -950,7 +967,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GFWWSLYY
 
-[Document54]
+[Document55]
 DocumentPath=G:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\LABLIB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -967,7 +984,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JFXOFFXT
 
-[Document55]
+[Document56]
 DocumentPath=..\..\..\1_PAY_IFB_V1\01_DESIGN\PAY_IFB_LIB\IFBpcblib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -984,7 +1001,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NLFALNWU
 
-[Document56]
+[Document57]
 DocumentPath=..\..\..\1_PAY_IFB_V1\01_DESIGN\PAY_IFB_LIB\IFBschelib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1001,7 +1018,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FHPDRRPR
 
-[Document57]
+[Document58]
 DocumentPath=..\09_LIB\IFBpcblib_offline.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1018,7 +1035,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RZHRNLTD
 
-[Document58]
+[Document59]
 DocumentPath=..\09_LIB\IFBschelib_offline.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1

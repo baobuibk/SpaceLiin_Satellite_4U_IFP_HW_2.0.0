@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=NetJ14_11 New Net Name=SAM_HOST_UART_RXD
+Change Net Name : Old Net Name=NetJ14_12 New Net Name=SAM_HOST_UART_TXD
+Change Net Name : Old Net Name=NetJ14_14 New Net Name=SAM_OEM719_UART_RX
+Change Net Name : Old Net Name=NetJ14_15 New Net Name=SAM_OEM719_UART_TX
+Change Net Name : Old Net Name=NetJ14_19 New Net Name=SAM_OEM719_PPS
+Added Member To Class: ClassName=CONNECTOR_INTERFACE Member=Component R382 DNP/4.7k
