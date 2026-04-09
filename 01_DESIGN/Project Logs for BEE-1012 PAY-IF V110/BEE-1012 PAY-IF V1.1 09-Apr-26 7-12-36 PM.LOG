@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SAM_BNO_RX Pin=U9-2
+Removed Pin From Net: NetName=SAM_BNO_TX Pin=U9-15
+Added Pin To Net: NetName=SAM_BNO_RX Pin=U9-4
+Added Pin To Net: NetName=SAM_BNO_TX Pin=U9-11
