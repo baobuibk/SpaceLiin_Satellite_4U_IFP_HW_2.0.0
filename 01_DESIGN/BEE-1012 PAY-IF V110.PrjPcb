@@ -1052,6 +1052,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YGWAKTYE
 
+[Document60]
+DocumentPath=BEE-1012 PAY-IF V1.0.0.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RXBPTTTX
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for PAY_IF\BEE-1012 PAY-IF V1.0.0.DRR
 DItemRevisionGUID=
