@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R399
+Change Component Designator: OldDesignator=R? NewDesignator=R400
+Added Member To Class: ClassName=CONNECTOR_INTERFACE Member=Component R400 DNP/4.7k

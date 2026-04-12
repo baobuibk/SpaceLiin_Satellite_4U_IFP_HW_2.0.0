@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C57 Old Footprint=CAP_C_1005X60 New Footprint=CAP_C_1005X50_L
+Change Component Designator: OldDesignator=U6 NewDesignator=DNP/U6
+Change Net Name : Old Net Name=NetJP9_2 New Net Name=NetDNP/U6_1

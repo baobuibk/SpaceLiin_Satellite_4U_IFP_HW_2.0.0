@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=DIFF90 Member=EXP_RS422_PASSTHR_RX_N
+Removed Member From Class: ClassName=DIFF90 Member=EXP_RS422_PASSTHR_RX_P
+Removed Member From Class: ClassName=DIFF90 Member=EXP_RS422_PASSTHR_TX_N
+Removed Member From Class: ClassName=DIFF90 Member=EXP_RS422_PASSTHR_TX_P
+Change Net Name : Old Net Name=CAN_A7_H New Net Name=CAN_H_main
+Change Net Name : Old Net Name=CAN_A7_L New Net Name=CAN_L_main
+Change Net Name : Old Net Name=EXP_RS422_PASSTHR_RX_N New Net Name=RS_422_2_PC104_RX_N
+Change Net Name : Old Net Name=EXP_RS422_PASSTHR_RX_P New Net Name=RS_422_2_PC104_RX_P
+Change Net Name : Old Net Name=EXP_RS422_PASSTHR_TX_N New Net Name=RS_422_2_PC104_TX_N
+Change Net Name : Old Net Name=EXP_RS422_PASSTHR_TX_P New Net Name=RS_422_2_PC104_TX_P
+Added Member To Class: ClassName=IMU Member=Component C245 0.1uF/10V
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
