@@ -1,0 +1,79 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=_CAP_C_2 New DesignItemId=_CAP_C_High_2
+Change Component DesignItemId : Designator=C3 Old DesignItemId=_CAP_C_2 New DesignItemId=_CAP_C_High_2
+Change Component DesignItemId : Designator=C4 Old DesignItemId=_CAP_C_2 New DesignItemId=_CAP_C_High_2
+Change Component DesignItemId : Designator=C7 Old DesignItemId=_CAP_C_2 New DesignItemId=_CAP_C_High_2
+Change Component DesignItemId : Designator=C9 Old DesignItemId=_CAP_C_2 New DesignItemId=_CAP_C_High_2
+Change Component DesignItemId : Designator=C11 Old DesignItemId=_CAP_C_2 New DesignItemId=_CAP_C_High_2
+Change Component DesignItemId : Designator=C14 Old DesignItemId=_CAP_C_2 New DesignItemId=_CAP_C_High_2
+Change Component DesignItemId : Designator=C15 Old DesignItemId=_CAP_C_2 New DesignItemId=_CAP_C_High_2
+Change Component DesignItemId : Designator=C16 Old DesignItemId=_CAP_C_2 New DesignItemId=_CAP_C_High_2
+Change Component DesignItemId : Designator=C19 Old DesignItemId=_CAP_C_2 New DesignItemId=_CAP_C_High_2
+Change Component DesignItemId : Designator=C34 Old DesignItemId=_CAP_C_2 New DesignItemId=_CAP_C_High_2
+Change Component DesignItemId : Designator=C50 Old DesignItemId=_CAP_C_2 New DesignItemId=_CAP_C_High_2
+Change Component DesignItemId : Designator=C51 Old DesignItemId=_CAP_C_2 New DesignItemId=_CAP_C_High_2
+Change Component DesignItemId : Designator=C61 Old DesignItemId=_CAP_C_2 New DesignItemId=_CAP_C_High_2
+Change Component DesignItemId : Designator=C64 Old DesignItemId=_CAP_C_2 New DesignItemId=_CAP_C_High_2
+Change Component DesignItemId : Designator=C76 Old DesignItemId=_CAP_C_2 New DesignItemId=_CAP_C_High_2
+Change Component DesignItemId : Designator=C95 Old DesignItemId=_CAP_C_2 New DesignItemId=_CAP_C_High_2
+Change Component DesignItemId : Designator=C108 Old DesignItemId=_CAP_C_2 New DesignItemId=_CAP_C_High_2
+Change Component DesignItemId : Designator=C115 Old DesignItemId=_CAP_C_2 New DesignItemId=_CAP_C_High_2
+Change Component DesignItemId : Designator=C120 Old DesignItemId=_CAP_C_2 New DesignItemId=_CAP_C_High_2
+Change Component DesignItemId : Designator=C121 Old DesignItemId=_CAP_C_2 New DesignItemId=_CAP_C_High_2
+Change Component DesignItemId : Designator=C241 Old DesignItemId=_CAP_C_2 New DesignItemId=_CAP_C_High_2
+Change Component DesignItemId : Designator=C242 Old DesignItemId=_CAP_C_2 New DesignItemId=_CAP_C_High_2
+Change Component Description : Designator=C71 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C73 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C138 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C153 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C154 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C164 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C165 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C166 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C167 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C168 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C169 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C170 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C171 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C172 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C173 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C184 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C201 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C202 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C203 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C204 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C205 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C207 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C210 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C215 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C216 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C217 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C218 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C223 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C224 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C225 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C230 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C231 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C245 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C246 Old Description=CAP CHIP New Description=CAP
+Change Component Description : Designator=C247 Old Description=CAP CHIP New Description=CAP
+Change Component Library : Designator=C71 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C73 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C138 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C153 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C154 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C164 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C165 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C166 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C167 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C168 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C169 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C170 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C171 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C172 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C173 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C184 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C230 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C231 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C245 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C246 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C247 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib

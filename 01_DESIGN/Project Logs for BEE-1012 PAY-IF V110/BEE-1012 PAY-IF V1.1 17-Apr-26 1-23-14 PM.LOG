@@ -1,0 +1,48 @@
+Change Component Comment : Designator=R355 Old Comment=100R/DNP New Comment=DNP/100R
+Change Component Description : Designator=C198 Old Description=CAP CHIP High Value New Description=CAP
+Change Component Description : Designator=C199 Old Description=CAP CHIP High Value New Description=CAP
+Change Component Description : Designator=C200 Old Description=CAP CHIP High Value New Description=CAP
+Change Component Description : Designator=C208 Old Description=CAP CHIP High Value New Description=CAP
+Change Component Description : Designator=C209 Old Description=CAP CHIP High Value New Description=CAP
+Change Component Description : Designator=C212 Old Description=CAP CHIP High Value New Description=CAP
+Change Component Description : Designator=C213 Old Description=CAP CHIP High Value New Description=CAP
+Change Component Description : Designator=C214 Old Description=CAP CHIP High Value New Description=CAP
+Change Component Description : Designator=C220 Old Description=CAP CHIP High Value New Description=CAP
+Change Component Description : Designator=C221 Old Description=CAP CHIP High Value New Description=CAP
+Change Component Description : Designator=C222 Old Description=CAP CHIP High Value New Description=CAP
+Change Component Library : Designator=C198 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C199 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C200 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C208 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C209 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C212 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C213 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C214 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C220 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C221 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C222 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R193 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R194 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R220 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R221 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R225 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R229 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R246 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R248 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R249 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R254 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R283 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R354 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R391 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Net Name : Old Net Name=NetJ8_3 New Net Name=CONN_422_TX_P
+Change Net Name : Old Net Name=NetJ8_4 New Net Name=CONN_422_TX_N
+Change Net Name : Old Net Name=NetJ8_5 New Net Name=CONN_422_RX_N
+Change Net Name : Old Net Name=NetJ8_6 New Net Name=CONN_422_RX_P
+Added Differential Pair: Name=CONN_422_RX
+Added Differential Pair: Name=CONN_422_TX
+Added Member To Class: ClassName=DIFF90 Member=Wire CONN_422_RX_N
+Added Member To Class: ClassName=DIFF90 Member=Wire CONN_422_RX_P
+Added Member To Class: ClassName=DIFF90 Member=Wire CONN_422_TX_N
+Added Member To Class: ClassName=DIFF90 Member=Wire CONN_422_TX_P
+Added Member To Class: ClassName=DIFF90 Member=CONN_422_RX
+Added Member To Class: ClassName=DIFF90 Member=CONN_422_TX

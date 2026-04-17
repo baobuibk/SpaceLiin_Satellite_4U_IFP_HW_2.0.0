@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=DDR_CK_N Pin=TP15-0
+Removed Member From Class: ClassName=SAMA7G54_DDR3L Member=TP15
+Change Component Description : Designator=C189 Old Description=CAP High Value New Description=CAP CHIP High Value
+Change Component Description : Designator=C190 Old Description=CAP High Value New Description=CAP CHIP High Value
+Change Component Description : Designator=C191 Old Description=CAP High Value New Description=CAP CHIP High Value
+Change Component Library : Designator=R195 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R213 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R214 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R215 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R223 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R227 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=C189 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=C190 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=C191 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib

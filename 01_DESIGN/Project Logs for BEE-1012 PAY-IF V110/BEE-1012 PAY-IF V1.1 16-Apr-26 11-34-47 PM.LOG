@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=R24 Old Footprint=RES_C_1005x30_L New Footprint=RES_C_0603X30
+Change Component Description : Designator=C195 Old Description=CAP New Description=CAP CHIP
+Change Component Description : Designator=C196 Old Description=CAP New Description=CAP CHIP
+Change Component Description : Designator=C61 Old Description=CAP CHIP New Description=CAP
+Change Component Library : Designator=C195 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=C196 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=R1 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=R2 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=R80 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=R174 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=R185 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=R186 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=R187 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=R188 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=R218 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=R311 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=R366 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=R375 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=R376 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=R377 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib

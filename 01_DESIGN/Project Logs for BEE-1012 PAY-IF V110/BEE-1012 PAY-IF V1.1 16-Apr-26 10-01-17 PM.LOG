@@ -1,0 +1,23 @@
+Change Component Comment : Designator=J6 Old Comment=HEADER 4x1 New Comment=MOLEX_5040500491
+Change Component Comment : Designator=J20 Old Comment=HEADER 4x1 New Comment=MOLEX_5040500491
+Change Component Library : Designator=R259 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R260 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R265 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R266 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R267 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R269 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R270 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R272 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R274 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R277 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R289 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R290 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R291 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R292 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R293 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R294 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R370 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R371 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R372 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R373 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R374 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
