@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\PAY_IFB\hw\HW\PAY_IFB\2_PAY_IFP_V2\SpaceLiin_Satellite_4U_IFP_HW_2.0.0\01_DESIGN\BEE-1012 PAY-IF V1.1.0.PcbDoc
 Date     : 21-Apr-26
-Time     : 1:02:00 PM
+Time     : 1:57:05 PM
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (WithinRoom('RoomSAM')),(All)
 Rule Violations :0
@@ -175,4 +175,4 @@ Rule Violations :0
 
 Violations Detected : 1
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:03
