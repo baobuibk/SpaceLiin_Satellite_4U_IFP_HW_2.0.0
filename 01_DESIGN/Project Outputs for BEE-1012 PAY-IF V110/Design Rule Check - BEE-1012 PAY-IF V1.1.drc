@@ -1,0 +1,178 @@
+Protel Design System Design Rule Check
+PCB File : D:\PAY_IFB\hw\HW\PAY_IFB\2_PAY_IFP_V2\SpaceLiin_Satellite_4U_IFP_HW_2.0.0\01_DESIGN\BEE-1012 PAY-IF V1.1.0.PcbDoc
+Date     : 22-Apr-26
+Time     : 12:35:30 PM
+
+Processing Rule : Clearance Constraint (Gap=0.1mm) (WithinRoom('RoomSAM')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mm) (IsKeepOut),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.1mm) (WithinRoom('RoomFPGA')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.1mm) (WithinRoom('RoomRAM')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.125mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=0.5mm) (Preferred=0.25mm) (WithinRoom('ROOM_SAMA7'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=2mm) (Preferred=0.125mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=0.364mm) (Preferred=0.364mm) (InNetClass('QSPI') or InNetClass('50_eMMC1_MCU') or InNetClass('SD_CARD') or InNetClass('MRAM_SAMA7'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=0.5mm) (Preferred=0.1mm) (WithinRoom('RoomFPGA'))
+Rule Violations :0
+
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=0.2mm) (MaxHoleWidth=0.2mm) (PreferredHoleWidth=0.2mm) (MinWidth=0.4mm) (MaxWidth=0.4mm) (PreferedWidth=0.4mm) (WithinRoom('ROOM_SAMA7'))
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=0.2mm) (MaxHoleWidth=0.2mm) (PreferredHoleWidth=0.2mm) (MinWidth=0.4mm) (MaxWidth=0.4mm) (PreferedWidth=0.4mm) (WithinRoom('room_fpga'))
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=0.2mm) (MaxHoleWidth=0.5mm) (PreferredHoleWidth=0.2mm) (MinWidth=0.4mm) (MaxWidth=1mm) (PreferedWidth=0.4mm) (All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.16mm) (Max=0.254mm) (Prefered=0.254mm)  and Width Constraints (Min=0.1mm) (Max=0.381mm) (Prefered=0.381mm) (InDifferentialPair('DDR_DQS0') or InDifferentialPair('DDR_CK') or InDifferentialPair('DDR_DQS1'))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.125mm) (Max=0.2mm) (Prefered=0.2mm)  and Width Constraints (Min=0.125mm) (Max=0.381mm) (Prefered=0.381mm) (InDifferentialPairClass('DIFF90'))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.1mm) (Max=0.254mm) (Prefered=0.254mm)  and Width Constraints (Min=0.1mm) (Max=0.381mm) (Prefered=0.381mm) (WithinRoom('RoomFPGA') or InDifferentialPair('USBA')or InDifferentialPair('USBB') or InDifferentialPair('USB_HOST_ONLY'))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.127mm) (Max=0.2mm) (Prefered=0.2mm)  and Width Constraints (Min=0.1mm) (Max=0.381mm) (Prefered=0.381mm) (InDifferentialPairClass('DIFF100'))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.16mm) (Max=0.254mm) (Prefered=0.254mm)  and Width Constraints (Min=0.1mm) (Max=0.381mm) (Prefered=0.381mm) (InDifferentialPair('OSC_LVDS'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=5mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.05mm) (WithinRoom('ROOM_SAMA7')),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.125mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.1mm) (InxSignalClass('xSignals_USB_HOST_SAM_CONN'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.1mm) (InxSignalClass('xSignals_USB_EXP_MICRO'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.1mm Target=TDI_PC28_PP1) (InxSignalClass('xSignals_JTAG_SAM'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.2mm) (InxSignalClass('xSignals_SUB_LVDS'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.1mm) (InxSignalClass('xSignals_FPGA_LVDS_TX'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.2mm) (InxSignalClass('xSignals_IF_OUT_CONN_USB'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.1mm) (InxSignalClass('xSignals_EXP_USB_SW'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.2mm) (InxSignalClass('xSignals_FPGA_LVDS_RX'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.1mm) (InxSignalClass('xSignals_RS422'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.1mm Target=SAMA7_FLASH_SPI_MCLK-_PB5_PP1) (InxSignalClass('xSignals_SAMA7_FLASH_SPI'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.1mm Target=SOM_SDMMC0_OUT_D7-_PA10_PP1) (InxSignalClass('xSignals_eMMC'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.102mm) (InNetClass('DIFF100'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.2mm) (InxSignalClass('xSignals_RS422_EXP_PC104'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.1mm Target=SD2_DATA2-_PC1_PP1) (InxSignalClass('xSignals_SDCARD'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.1mm Target=SOM_MRAM_QSPI_CLK-_PB14_PP1) (InxSignalClass('xSignal_MRAM'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.5mm) (InNetClass('QSPI'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.102mm) (Disabled)(InDifferentialPairClass('DIFF90'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.1mm Target=JTAG_TCK_PP1) (InxSignalClass('xSignals_JTAG_FPGA'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=5mm Target=CLK_EXP_CONNECTOR-NetR95_1-_PA26_PP1) (InxSignalClass('xSignals_SPI_CONNECTOR'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.254mm) (InNetClass('DDR-LANE1'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.254mm) (InNetClass('DDR-ADDR-CTL'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.254mm) (InNetClass('DDR-LANE0'))
+Rule Violations :0
+
+Processing Rule : RoomSAM (Bounding Region = (64.389mm, 57.658mm, 79.883mm, 73.787mm) (HasFootprint('TFBGA-343_14x14 - 2.5mm'))
+   Violation between Room Definition: Between BGA Component U3-SAMA7G54 (46.705mm,40.005mm) on L8_BOT And RoomSAM (Bounding Region = (64.389mm, 57.658mm, 79.883mm, 73.787mm) (HasFootprint('TFBGA-343_14x14 - 2.5mm')) 
+Rule Violations :1
+
+Processing Rule : RoomFPGA (Bounding Region = (51.144mm, 52.959mm, 60.034mm, 60.198mm) (HasFootprint('CSFBGA121_LAT'))
+Rule Violations :0
+
+Processing Rule : RoomRAM (Bounding Region = (72.898mm, 37.719mm, 93.98mm, 65.786mm) (InComponent('U4'))
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0.05mm, Vertical Gap = -0.1mm ) (All),(All) 
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 1
+Waived Violations : 0
+Time Elapsed        : 00:00:02
