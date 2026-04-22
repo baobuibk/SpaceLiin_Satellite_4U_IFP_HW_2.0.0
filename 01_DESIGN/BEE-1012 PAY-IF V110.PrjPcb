@@ -1350,44 +1350,44 @@ DocumentPath=Project Outputs for PAY_IF\Pick Place for BEE-1012 PAY-IF V1.0.0.tx
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Sub-system
-Value=BEE
+Name=ApprovedBy
+Value=Vu Pham
 
 [Parameter2]
-Name=Subsystem
-Value=BEE
-
-[Parameter3]
-Name=Sheet_title
-Value=BEE-1012 PAY-IF V110
-
-[Parameter4]
-Name=Set_Date
-Value=18/03/2026
-
-[Parameter5]
-Name=Revision
-Value=Ver 1.1.0
-
-[Parameter6]
-Name=ProjectCode
-Value=BEE-1012
-
-[Parameter7]
-Name=Project
-Value=BEE-1012 PAY-IF V110
-
-[Parameter8]
-Name=CheckedBy
-Value=Bao Bui
-
-[Parameter9]
 Name=Author
 Value=Hieu & Duy
 
+[Parameter3]
+Name=CheckedBy
+Value=Bao Bui
+
+[Parameter4]
+Name=Project
+Value=BEE-1012 PAY-IF V110
+
+[Parameter5]
+Name=ProjectCode
+Value=BEE-1012
+
+[Parameter6]
+Name=Revision
+Value=Ver 1.1.0
+
+[Parameter7]
+Name=Set_Date
+Value=18/03/2026
+
+[Parameter8]
+Name=Sheet_title
+Value=BEE-1012 PAY-IF V110
+
+[Parameter9]
+Name=Sub-system
+Value=BEE
+
 [Parameter10]
-Name=ApprovedBy
-Value=Vu Pham
+Name=Subsystem
+Value=BEE
 
 [Configuration1]
 Name=Sources
