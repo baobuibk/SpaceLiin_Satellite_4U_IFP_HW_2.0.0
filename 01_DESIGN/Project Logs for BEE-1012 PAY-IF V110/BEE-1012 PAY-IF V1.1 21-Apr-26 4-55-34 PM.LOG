@@ -1,0 +1,31 @@
+Change Component DesignItemId : Designator=J19 Old DesignItemId=Header 8x1_2M New DesignItemId=5040500891
+Change Component Footprint: Designator=J5 Old Footprint=5040500991 New Footprint=MOLEX_5040500991
+Change Component Footprint: Designator=J15 Old Footprint=5040500991 New Footprint=MOLEX_5040500991
+Change Component Footprint: Designator=J17 Old Footprint=5040500991 New Footprint=MOLEX_5040500991
+Change Component Comment : Designator=R315 Old Comment=2.2k New Comment=1k
+Change Component Comment : Designator=R318 Old Comment=2.2k New Comment=1k
+Change Component Comment : Designator=R320 Old Comment=2.2k New Comment=1k
+Change Component Comment : Designator=R360 Old Comment=2.2k New Comment=1k
+Change Component Comment : Designator=R361 Old Comment=2.2k New Comment=1k
+Change Component Comment : Designator=R182 Old Comment=2.2k New Comment=4.7k
+Change Component Comment : Designator=R183 Old Comment=2.2k New Comment=4.7k
+Change Component Comment : Designator=R184 Old Comment=2.2k New Comment=4.7k
+Change Component Comment : Designator=R326 Old Comment=2.2k New Comment=4.7k
+Change Component Comment : Designator=R362 Old Comment=2.2k New Comment=4.7k
+Change Component Comment : Designator=R367 Old Comment=4.7k/DNP New Comment=DNP/4.7k
+Change Component Comment : Designator=R368 Old Comment=4.7k/DNP New Comment=DNP/4.7k
+Change Component Comment : Designator=R369 Old Comment=4.7k/DNP New Comment=DNP/4.7k
+Change Component Description : Designator=J19 Old Description= New Description=Connector Header Surface Mount, Right Angle 8 position 0.059" (1.50mm)`
+Change Component Library : Designator=R315 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R318 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R320 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R360 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=R361 Old Library=IFBschelib.SchLib New Library=LABLIB.SchLib
+Change Component Library : Designator=J19 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=R367 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=R368 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=R369 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Added Component: Designator=R401(RES_C_1005x30_L)
+Added Pin To Net: NetName=LPM Pin=R401-1
+Added Pin To Net: NetName=GND Pin=R401-2
+Added Member To Class: ClassName=SAMA7G54_PMIC Member=Component R401 10k

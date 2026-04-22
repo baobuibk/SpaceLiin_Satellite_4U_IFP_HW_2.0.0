@@ -1,0 +1,50 @@
+Change Component Footprint: Designator=TP1 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP2 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP3 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP4 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP5 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP6 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP7 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP8 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP9 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP10 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP11 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP12 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP13 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP14 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP15 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP16 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP17 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP18 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP19 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP20 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP21 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP22 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP23 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP24 Old Footprint=Test point New Footprint=Testpoint_50
+Change Component Footprint: Designator=TP25 Old Footprint=Test point New Footprint=Testpoint_50
+Added Pin To Net: NetName=VDD_3V3 Pin=TP1-1
+Added Pin To Net: NetName=VDD_1V35 Pin=TP2-1
+Added Pin To Net: NetName=VDDCORE Pin=TP3-1
+Added Pin To Net: NetName=VDD_1V15_OUT3 Pin=TP4-1
+Added Pin To Net: NetName=VDDCPU Pin=TP5-1
+Added Pin To Net: NetName=VDD_1V15_OUT4 Pin=TP6-1
+Added Pin To Net: NetName=VLDO1 Pin=TP7-1
+Added Pin To Net: NetName=VLDO2 Pin=TP8-1
+Added Pin To Net: NetName=VDD_3V3_MPU Pin=TP9-1
+Added Pin To Net: NetName=VDDIODDR Pin=TP10-1
+Added Pin To Net: NetName=XIN Pin=TP11-1
+Added Pin To Net: NetName=DDR_D0 Pin=TP12-1
+Added Pin To Net: NetName=DDR_D8 Pin=TP13-1
+Added Pin To Net: NetName=DDR_CK_P Pin=TP14-1
+Added Pin To Net: NetName=DDR_CK_N Pin=TP15-1
+Added Pin To Net: NetName=DDR_DQS0_P Pin=TP16-1
+Added Pin To Net: NetName=DDR_DQS0_N Pin=TP17-1
+Added Pin To Net: NetName=DDR_DQS1_P Pin=TP18-1
+Added Pin To Net: NetName=DDR_DQS1_N Pin=TP19-1
+Added Pin To Net: NetName=GND Pin=TP20-1
+Added Pin To Net: NetName=GND Pin=TP21-1
+Added Pin To Net: NetName=GND Pin=TP22-1
+Added Pin To Net: NetName=GND Pin=TP23-1
+Added Pin To Net: NetName=5V Pin=TP24-1
+Added Pin To Net: NetName=SYS_PLL_INPUT Pin=TP25-1

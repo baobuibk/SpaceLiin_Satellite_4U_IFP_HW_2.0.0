@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=LPM Pin=U3-R10
+Added Component: Designator=R403(RES_C_1005x30_L)
+Added Pin To Net: NetName=LPM Pin=R403-1
+Added Pin To Net: NetName=NetR403_2 Pin=R403-2
+Added Pin To Net: NetName=NetR403_2 Pin=U3-R10
+Added Net: Name=NetR403_2
+Added Member To Class: ClassName=SAMA7G54_MPU Member=Component R403 100R

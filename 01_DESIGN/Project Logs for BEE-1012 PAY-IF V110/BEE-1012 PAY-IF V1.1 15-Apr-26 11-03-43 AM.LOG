@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=SYS_PLL_INPUT Pin=TP25-0
+Removed Member From Class: ClassName=FPGA_PART1 Member=TP25

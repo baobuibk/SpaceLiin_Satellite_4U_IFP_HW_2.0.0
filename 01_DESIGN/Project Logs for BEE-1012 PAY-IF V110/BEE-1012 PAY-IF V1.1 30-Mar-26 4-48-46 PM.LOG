@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=_PA20 Pin=R45-2
+Removed Pin From Net: NetName=_PB15 Pin=R73-2
+Removed Pin From Net: NetName=_PD12 Pin=R127-2
+Removed Pin From Net: NetName=SAM_RTC_I2C_SCL Pin=R137-1
+Removed Pin From Net: NetName=_PD17 Pin=R170-1
+Removed Pin From Net: NetName=_PD12 Pin=U3-M15
+Remove Pin from Net: Failed to remove Pin
+Added Pin To Net: NetName=_PB1 Pin=R45-2
+Added Pin To Net: NetName=_PB12 Pin=R73-2
+Added Pin To Net: NetName=_PD13 Pin=R127-2
+Added Pin To Net: NetName=SOM_CONSOLE_RX Pin=R137-1
+Added Pin To Net: NetName=SOM_SDMMC0_OUT_CK Pin=R170-1
+Added Pin To Net: NetName=_PB12 Pin=U3-M15
+Added Pin To Net: NetName=SOM_SDMMC0_OUT_CK Pin=U5-P6
+Added Pin To Net: NetName=SOM_SDMMC0_OUT_CK Pin=U5-P6

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=_PC3 Pin=R80-1
+Removed Pin From Net: NetName=VDD_3V3 Pin=R80-2
+Removed Pin From Net: NetName=GND Pin=R81-1
+Removed Pin From Net: NetName=_PC3 Pin=R81-2
+Removed Pin From Net: NetName=5V Pin=R108-1
+Removed Pin From Net: NetName=5V Pin=R119-1
+Removed Pin From Net: NetName=5V Pin=R123-1
+Removed Member From Class: ClassName=SAMA7G54_PIO Member=R80
+Removed Member From Class: ClassName=SAMA7G54_PIO Member=R81
+Added Pin To Net: NetName=VDD_3V3 Pin=R108-1
+Added Pin To Net: NetName=VDD_3V3 Pin=R119-1
+Added Pin To Net: NetName=VDD_3V3 Pin=R123-1

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PHY_LVDS_TXD_P Pin=R218-1
+Removed Pin From Net: NetName=PHY_LVDS_TXD_N Pin=R218-2
+Removed Pin From Net: NetName=PHY_LVDS_TXC_P Pin=R219-1
+Removed Pin From Net: NetName=PHY_LVDS_TXC_N Pin=R219-2
+Removed Member From Class: ClassName=LVDS Member=R218
+Removed Member From Class: ClassName=LVDS Member=R219

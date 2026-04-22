@@ -1,0 +1,6 @@
+Add Differential Pair: Number of nets in differential pair NetR291_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR294_1 is 1 instead of 2
+Added Member To Class: ClassName=DIFF90 Member=Wire NetR291_1
+Added Member To Class: ClassName=DIFF90 Member=Wire NetR294_1
+Added Rule: Name=Schematic Matched Net Lengths
+Added Rule: Name=Schematic Matched Net Lengths_6

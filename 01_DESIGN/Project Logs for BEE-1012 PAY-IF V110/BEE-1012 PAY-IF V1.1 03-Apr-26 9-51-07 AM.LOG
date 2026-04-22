@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=DIFF100 Member=SubSPW_LVDS_DIN_N
+Removed Member From Class: ClassName=DIFF100 Member=SubSPW_LVDS_DIN_P
+Removed Member From Class: ClassName=DIFF100 Member=SubSPW_LVDS_DOUT_N
+Removed Member From Class: ClassName=DIFF100 Member=SubSPW_LVDS_DOUT_P
+Removed Member From Class: ClassName=DIFF100 Member=SubSPW_LVDS_SIN_N
+Removed Member From Class: ClassName=DIFF100 Member=SubSPW_LVDS_SIN_P
+Removed Member From Class: ClassName=DIFF100 Member=SubSPW_LVDS_SOUT_N
+Added Rule: Name=Schematic Matched Net Lengths_5
+Removed Member From Class: ClassName=DIFF100 Member=SubSPW_LVDS_DIN
+Removed Member From Class: ClassName=DIFF100 Member=SubSPW_LVDS_DOUT
+Removed Member From Class: ClassName=DIFF100 Member=SubSPW_LVDS_SIN
+Removed Member From Class: ClassName=DIFF100 Member=SubSPW_LVDS_SOUT

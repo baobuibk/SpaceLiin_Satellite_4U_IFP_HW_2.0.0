@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=R227 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005x30_L
+Added Member To Class: ClassName=CONNECTOR_INTERFACE Member=Component R? DNP/4.7k

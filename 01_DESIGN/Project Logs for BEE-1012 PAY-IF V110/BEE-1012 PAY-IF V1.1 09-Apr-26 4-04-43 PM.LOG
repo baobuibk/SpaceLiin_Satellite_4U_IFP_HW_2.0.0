@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=NetR7_2 Pin=R385-2
+Removed Pin From Net: NetName=NetR7_2 Pin=U42-1
+Added Component: Designator=C245(CAP_C_1005X50_L)
+Added Component: Designator=C246(CAP_C_1005X50_L)
+Added Component: Designator=C247(CAP_C_1005X50_L)
+Added Component: Designator=R389(RES_C_1005x30_L)
+Added Component: Designator=R390(RES_C_1005x30_L)
+Added Component: Designator=R391(RES_C_1005x30_L)
+Added Component: Designator=R392(RES_C_1005x30_L)
+Added Component: Designator=R393(RES_C_1005x30_L)
+Added Component: Designator=R394(RES_C_1005x30_L)
+Added Component: Designator=R395(RES_C_1005x30_L)
+Added Component: Designator=R396(RES_C_1005x30_L)
+Added Pin To Net: NetName=GND Pin=C245-1
+Added Pin To Net: NetName=3V3_COM Pin=C245-2
+Added Pin To Net: NetName=GND Pin=C246-1
+Added Pin To Net: NetName=3V3_COM Pin=C246-2
+Added Pin To Net: NetName=GND Pin=C247-1
+Added Pin To Net: NetName=3V3_COM Pin=R389-1
+Added Pin To Net: NetName=3V3_COM Pin=R390-1
+Added Pin To Net: NetName=3V3_COM Pin=R391-1
+Added Pin To Net: NetName=3V3_COM Pin=R392-1
+Added Pin To Net: NetName=GND Pin=R393-2
+Added Pin To Net: NetName=_PE2 Pin=R396-2
+Added Pin To Net: NetName=GND Pin=U41-2
+Added Pin To Net: NetName=3V3_COM Pin=U41-3
+Added Pin To Net: NetName=GND Pin=U41-6
+Added Pin To Net: NetName=NetC75_2 Pin=U41-11
+Added Pin To Net: NetName=GND Pin=U41-25
+Added Pin To Net: NetName=3V3_COM Pin=U41-28
+Added Pin To Net: NetName=_PD08 Pin=R395-2
+Added Pin To Net: NetName=_PD08 Pin=U3-B13
+Added Net: Name=_PD08
+Added Pin To Net: NetName=_PD21 Pin=R394-2
+Added Pin To Net: NetName=_PD21 Pin=U3-F18
+Added Net: Name=_PD21
+Added Pin To Net: NetName=BNO_BOOTN Pin=R391-2
+Added Pin To Net: NetName=BNO_BOOTN Pin=R394-1
+Added Pin To Net: NetName=BNO_BOOTN Pin=U41-4
+Added Net: Name=BNO_BOOTN
+Added Pin To Net: NetName=BNO_PS1 Pin=R392-2
+Added Pin To Net: NetName=BNO_PS1 Pin=R393-1
+Added Pin To Net: NetName=BNO_PS1 Pin=U41-5
+Added Net: Name=BNO_PS1
+Added Pin To Net: NetName=NetC247_2 Pin=C247-2
+Added Pin To Net: NetName=NetC247_2 Pin=U41-9
+Added Net: Name=NetC247_2
+Added Pin To Net: NetName=NetR385_2 Pin=R385-2
+Added Pin To Net: NetName=NetR385_2 Pin=R396-1
+Added Pin To Net: NetName=NetR385_2 Pin=U42-1
+Added Net: Name=NetR385_2
+Added Pin To Net: NetName=NetR389_2 Pin=R389-2
+Added Pin To Net: NetName=NetR389_2 Pin=U41-16
+Added Net: Name=NetR389_2
+Added Pin To Net: NetName=NetR390_2 Pin=R390-2
+Added Pin To Net: NetName=NetR390_2 Pin=U41-15
+Added Net: Name=NetR390_2
+Added Pin To Net: NetName=NetR395_1 Pin=R395-1
+Added Pin To Net: NetName=NetR395_1 Pin=U41-14
+Added Net: Name=NetR395_1
+Added Pin To Net: NetName=NetU9_2 Pin=U9-2
+Added Pin To Net: NetName=NetU9_2 Pin=U41-20
+Added Net: Name=NetU9_2
+Added Pin To Net: NetName=NetU9_15 Pin=U9-15
+Added Pin To Net: NetName=NetU9_15 Pin=U41-19
+Added Net: Name=NetU9_15
+Added Member To Class: ClassName=IMU Member=Component C245 0.1uF/10V
+Added Member To Class: ClassName=IMU Member=Component C246 0.1uF/10V
+Added Member To Class: ClassName=IMU Member=Component C247 0.1uF/10V
+Added Member To Class: ClassName=IMU Member=Component R389 4.7k
+Added Member To Class: ClassName=IMU Member=Component R390 4.7k
+Added Member To Class: ClassName=IMU Member=Component R391 10k
+Added Member To Class: ClassName=IMU Member=Component R392 0R
+Added Member To Class: ClassName=IMU Member=Component R393 DNP/0R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R394 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R395 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R396 22R

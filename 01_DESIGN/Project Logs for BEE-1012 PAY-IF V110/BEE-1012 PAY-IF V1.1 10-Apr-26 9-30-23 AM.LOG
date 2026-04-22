@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=CONNECTOR_INTERFACE Member=tc
+Removed Member From Class: ClassName=SAMA7G54_MPU Member=tc
+Change Component Designator: OldDesignator=tc NewDesignator=D8
+Change Net Name : Old Net Name=EXP_RS422_PASSTHR_RX+ New Net Name=EXP_RS422_PASSTHR_RX_P
+Change Net Name : Old Net Name=EXP_RS422_PASSTHR_RX- New Net Name=EXP_RS422_PASSTHR_RX_N
+Change Net Name : Old Net Name=EXP_RS422_PASSTHR_TX+ New Net Name=EXP_RS422_PASSTHR_TX_P
+Change Net Name : Old Net Name=EXP_RS422_PASSTHR_TX- New Net Name=EXP_RS422_PASSTHR_TX_N
+Added Differential Pair: Name=EXP_RS422_PASSTHR_RX
+Added Differential Pair: Name=EXP_RS422_PASSTHR_TX
+Added Member To Class: ClassName=DIFF90 Member=Wire EXP_RS422_PASSTHR_RX_N
+Added Member To Class: ClassName=DIFF90 Member=Wire EXP_RS422_PASSTHR_RX_P
+Added Member To Class: ClassName=DIFF90 Member=Wire EXP_RS422_PASSTHR_TX_N
+Added Member To Class: ClassName=DIFF90 Member=Wire EXP_RS422_PASSTHR_TX_P
+Added Member To Class: ClassName=DIFF90 Member=EXP_RS422_PASSTHR_RX
+Added Member To Class: ClassName=DIFF90 Member=EXP_RS422_PASSTHR_TX

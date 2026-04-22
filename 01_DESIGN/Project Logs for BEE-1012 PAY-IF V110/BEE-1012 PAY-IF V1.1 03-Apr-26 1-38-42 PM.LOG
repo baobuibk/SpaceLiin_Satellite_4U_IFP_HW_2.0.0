@@ -1,0 +1,23 @@
+Added Component: Designator=R300(RES_C_1005x30_L)
+Added Component: Designator=R301(RES_C_1005x30_L)
+Added Component: Designator=R303(RES_C_1005x30_L)
+Added Component: Designator=R304(RES_C_1005x30_L)
+Added Component: Designator=U20(DS90LV011AQ-Q1)
+Added Pin To Net: NetName=NetR96_1 Pin=R300-1
+Added Pin To Net: NetName=CS_EXP_CONNECTOR Pin=R300-2
+Added Pin To Net: NetName=NetR95_1 Pin=R301-1
+Added Pin To Net: NetName=CLK_EXP_CONNECTOR Pin=R301-2
+Added Pin To Net: NetName=NetR97_1 Pin=R303-1
+Added Pin To Net: NetName=MOSI_EXP_CONNECTOR Pin=R303-2
+Added Pin To Net: NetName=NetR98_1 Pin=R304-1
+Added Pin To Net: NetName=MISO_EXP_CONNECTOR Pin=R304-2
+Added Pin To Net: NetName=3V3_COM Pin=U20-1
+Added Pin To Net: NetName=GND Pin=U20-2
+Added Pin To Net: NetName=PHY_LVDS_RXC_P Pin=U20-3
+Added Pin To Net: NetName=PHY_LVDS_RXC_N Pin=U20-4
+Added Pin To Net: NetName=NetU11_5 Pin=U20-5
+Added Member To Class: ClassName=CONNECTOR_INTERFACE Member=Component R300 DNP/0R
+Added Member To Class: ClassName=CONNECTOR_INTERFACE Member=Component R301 DNP/0R
+Added Member To Class: ClassName=CONNECTOR_INTERFACE Member=Component R303 DNP/0R
+Added Member To Class: ClassName=CONNECTOR_INTERFACE Member=Component R304 DNP/0R
+Added Member To Class: ClassName=LVDS Member=Component U20 DS90LT012AQ-Q1

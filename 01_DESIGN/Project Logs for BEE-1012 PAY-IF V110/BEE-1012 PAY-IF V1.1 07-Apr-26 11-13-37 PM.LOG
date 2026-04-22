@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=SOM_RAM_QSPI_nCS Pin=JP5-1
+Removed Pin From Net: NetName=NetR140_1 Pin=R?-1
+Removed Pin From Net: NetName=NetR142_1 Pin=R?-1
+Removed Member From Class: ClassName=SDCARD_FLASH Member=JP5
+Added Component: Designator=C239(CAP_C_1005X50_L)
+Added Component: Designator=C240(CAP_C_1005X50_L)
+Added Component: Designator=JP?(JUMPER_1608)
+Added Component: Designator=R81(RES_C_1005x30_L)
+Added Component: Designator=R?(RES_C_1005x30_L)
+Added Component: Designator=U41(BNO086)
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.18mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CEVA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BNO086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "526-BNO086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CEVA/BNO086?qs=ulEaXIWI0c%2FqTo1scjodAw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Y6(CRYSTAL_NX2012SA)
+Add component (AddParameter): Name = "Category"; Value = "Crystal/Oscillator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://chn-vm-apps.microchip.com/mchprepo/parts/Datasheets/c_NX2012SA-STD-MUB-1_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Datasheets\c_NX2012SA-STD-MUB-1_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\Crystal 2 Pins.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\CRYSTAL_NX2012SA.PcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_"; Value = "CRYSTAL 32.768kHz 12.5pF SMD NX2012SA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dev Tools Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "12.5pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "NDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "NX2012SA-32.768K-STD-MUB-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MCHP-ID"; Value = "OSC1092"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owner"; Value = "Jamus Griego"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "644-1219-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Crystal 2 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Crystal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "32.768kHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C239-2
+Added Pin To Net: NetName=GND Pin=C240-2
+Added Pin To Net: NetName=VDD_3V3 Pin=JP?-1
+Added Pin To Net: NetName=NetR140_1 Pin=R?-1
+Added Pin To Net: NetName=NetR142_1 Pin=R?-1
+Added Pin To Net: NetName=SOM_RAM_QSPI_nCS Pin=R?-1
+Added Pin To Net: NetName=BNO_XIN32 Pin=C239-1
+Added Pin To Net: NetName=BNO_XIN32 Pin=R81-1
+Added Pin To Net: NetName=BNO_XIN32 Pin=U41-27
+Added Pin To Net: NetName=BNO_XIN32 Pin=Y6-2
+Added Net: Name=BNO_XIN32
+Added Pin To Net: NetName=BNO_XOUT32 Pin=C240-1
+Added Pin To Net: NetName=BNO_XOUT32 Pin=R81-2
+Added Pin To Net: NetName=BNO_XOUT32 Pin=U41-26
+Added Pin To Net: NetName=BNO_XOUT32 Pin=Y6-1
+Added Net: Name=BNO_XOUT32
+Added Pin To Net: NetName=NetJP?_2 Pin=JP?-2
+Added Pin To Net: NetName=NetJP?_2 Pin=R174-1
+Added Pin To Net: NetName=NetJP?_2 Pin=R?-2
+Added Pin To Net: NetName=NetJP?_2 Pin=U6-1
+Added Net: Name=NetJP?_2
+Added Class: Name=IMU
+Added Member To Class: ClassName=SDCARD_FLASH Member=Component JP?
+Added Member To Class: ClassName=CONNECTOR_INTERFACE Member=Component R? DNP/4.7k
+Added Member To Class: ClassName=SDCARD_FLASH Member=Component R? 120R

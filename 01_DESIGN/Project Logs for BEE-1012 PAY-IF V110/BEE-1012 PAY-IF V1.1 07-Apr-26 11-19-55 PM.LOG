@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=SDCARD_FLASH Member=R?
+Change Component Designator: OldDesignator=R? NewDesignator=R382
+Change Component Designator: OldDesignator=R? NewDesignator=R383
+Change Component Designator: OldDesignator=R? NewDesignator=R384
+Added Member To Class: ClassName=CONNECTOR_INTERFACE Member=Component R383 DNP/4.7k
+Added Member To Class: ClassName=SDCARD_FLASH Member=Component R384 120R

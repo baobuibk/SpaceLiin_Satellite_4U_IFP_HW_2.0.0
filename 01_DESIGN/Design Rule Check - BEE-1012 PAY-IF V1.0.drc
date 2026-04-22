@@ -1,0 +1,152 @@
+Protel Design System Design Rule Check
+PCB File : D:\PAY_IFB\hw\HW\PAY_IFB\2_PAY_IFP_V2\SpaceLiin_Satellite_4U_IFP_HW_2.0.0\01_DESIGN\BEE-1012 PAY-IF V1.0.0.PcbDoc
+Date     : 15-Apr-26
+Time     : 12:03:13 AM
+
+Processing Rule : Clearance Constraint (Gap=0.125mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.101mm) (WithinRoom('ROOM_SAMA7')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Via (40.521mm,5.121mm) from Top_1 to Bottom_6 And Pad BT1-1(42.926mm,5.461mm) on Bottom_6 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (56.871mm,70.99mm) from Top_1 to Bottom_6 And Pad C10-1(56.961mm,70.326mm) on Bottom_6 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C1-1(65.775mm,71.661mm) on Bottom_6 And Via (65.841mm,70.997mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C13-2(55.26mm,71.997mm) on Bottom_6 And Pad C11-2(55.26mm,70.041mm) on Bottom_6 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (56.871mm,70.99mm) from Top_1 to Bottom_6 And Pad C12-1(56.961mm,71.661mm) on Bottom_6 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C13-2(55.26mm,71.997mm) on Bottom_6 And Via (56.246mm,70.99mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad C136-2(42.672mm,80.714mm) on Bottom_6 And Track (43.869mm,80.705mm)(43.878mm,80.714mm) on Bottom_6 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (71.628mm,69.469mm) from Top_1 to Bottom_6 And Pad C165-1(71.808mm,67.227mm) on Top_1 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (71.628mm,69.469mm) from Top_1 to Bottom_6 And Pad C168-1(72.765mm,70.215mm) on Top_1 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (66.466mm,70.997mm) from Top_1 to Bottom_6 And Pad C2-2(67.579mm,71.997mm) on Bottom_6 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (63.856mm,70.743mm)(64.915mm,70.743mm) on Bottom_6 And Pad C4-1(65.775mm,70.326mm) on Bottom_6 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (66.466mm,70.997mm) from Top_1 to Bottom_6 And Pad C5-2(67.579mm,70.041mm) on Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (68.671mm,57.381mm) from Top_1 to Bottom_6 And Pad J2-2(69.469mm,50.165mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (83.693mm,22.86mm) from Top_1 to Bottom_6 And Pad J2-2-4(84.783mm,22.935mm) on Top_1 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J2-2-5(84.783mm,24.435mm) on Top_1 And Via (85.852mm,24.384mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J2-2-6(84.783mm,25.935mm) on Top_1 And Via (85.852mm,25.908mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J7-G2(25.282mm,73.666mm) on Top_1 And Pad J7-G1(25.282mm,76.276mm) on Top_1 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J7-G2(25.282mm,73.666mm) on Top_1 And Via (27.1mm,72.1mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J7-G3(35.932mm,74.236mm) on Top_1 And Pad J7-G4(35.932mm,77.421mm) on Top_1 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J7-G3(35.932mm,74.236mm) on Top_1 And Via (37.1mm,72.1mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (83.832mm,62.823mm) from Top_1 to Bottom_6 And Pad J8-1(84.783mm,62.087mm) on Top_1 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J9-7(43.994mm,83.662mm) on Top_1 And Pad J9-5(45.182mm,83.577mm) on Top_1 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J9-5(45.182mm,83.577mm) on Top_1 And Via (45.85mm,84.6mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J9-6(48.97mm,83.662mm) on Top_1 And Via (50.85mm,84.6mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J9-8(49.857mm,86.237mm) on Top_1 And Via (49.89mm,87.383mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (42.69mm,87.383mm) from Top_1 to Bottom_6 And Pad J9-9(43.107mm,86.237mm) on Top_1 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (64.579mm,58.442mm) from Top_1 to Bottom_6 And Pad R14-2(66.598mm,58.724mm) on Top_1 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (72.504mm,62.128mm) from Top_1 to Bottom_6 And Pad VR1-1(73.533mm,61.849mm) on Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (24.6mm,40.977mm) from Top_1 to Bottom_6 And Track (36.501mm,41.358mm)(36.513mm,41.345mm) on Top_1 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Track (39.923mm,74.816mm)(39.936mm,74.803mm) on Bottom_6 And Via (43.847mm,70.419mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Track (47.879mm,45.974mm)(50.292mm,45.974mm) on SIGNAL_3 And Track (48.04mm,43.303mm)(48.04mm,43.855mm) on PWR_4 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Track (59.134mm,56.672mm)(59.134mm,57.427mm) on Bottom_6 And Via (61.044mm,55.848mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (60.071mm,64.262mm) from Top_1 to Bottom_6 And Track (63.464mm,59.83mm)(64.749mm,59.83mm) on Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (24.538mm,36.324mm) from Top_1 to Bottom_6 And Via (24.6mm,40.977mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (24.538mm,36.324mm) from Top_1 to Bottom_6 And Via (27.178mm,33.02mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (30.357mm,79.478mm) from Top_1 to Bottom_6 And Via (39.116mm,79.375mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (32.25mm,48.641mm) from Top_1 to Bottom_6 And Via (32.258mm,52.197mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (32.25mm,48.641mm) from Top_1 to Bottom_6 And Via (36.903mm,45.209mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (39.04mm,74.828mm) from Top_1 to Bottom_6 And Via (39.116mm,79.375mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (39.116mm,79.375mm) from Top_1 to Bottom_6 And Via (42.034mm,83.86mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (42.426mm,60.863mm) from Top_1 to Bottom_6 And Via (43.059mm,57.404mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (42.426mm,60.863mm) from Top_1 to Bottom_6 And Via (48.455mm,62.586mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (43.576mm,67.571mm) from Top_1 to Bottom_6 And Via (43.847mm,70.419mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (43.576mm,67.571mm) from Top_1 to Bottom_6 And Via (48.455mm,62.586mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (43.888mm,81.385mm) from Top_1 to Bottom_6 And Via (45.104mm,81.395mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (45.104mm,81.395mm) from Top_1 to Bottom_6 And Via (59.563mm,76.462mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (48.455mm,62.586mm) from Top_1 to Bottom_6 And Via (49.911mm,71.755mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (48.455mm,62.586mm) from Top_1 to Bottom_6 And Via (59.13mm,57.431mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (59.563mm,76.462mm) from Top_1 to Bottom_6 And Via (60.16mm,76.468mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (61.044mm,55.848mm) from Top_1 to Bottom_6 And Via (62.039mm,54.603mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (61.044mm,55.848mm) from Top_1 to Bottom_6 And Via (64.579mm,58.442mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (62.039mm,54.603mm) from Top_1 to Bottom_6 And Via (64.135mm,54.795mm) from Top_1 to Bottom_6 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Via (64.135mm,54.795mm) from Top_1 to Bottom_6 And Via (65.151mm,54.785mm) from Top_1 to Bottom_6 
+Rule Violations :53
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.125mm) (Max=0.364mm) (Preferred=0.364mm) (InNetClass('QSPI') or InNetClass('50_eMMC1') or InNetClass('50_eMMC2') or InNetClass('DDR-ADDR-CTL') or InNetClass('DDR-LANE0') or InNetClass('DDR-LANE1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.125mm) (Max=1mm) (Preferred=0.5mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=0.5mm) (Preferred=0.254mm) (WithinRoom('ROOM_SAMA7'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=5mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.05mm) (WithinRoom('ROOM_SAMA7')),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.125mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Track (63.856mm,70.743mm)(64.915mm,70.743mm) on Bottom_6 
+   Violation between Net Antennae: Track (63.856mm,71.243mm)(64.908mm,71.243mm) on Bottom_6 
+   Violation between Net Antennae: Via (68.644mm,58.702mm) from Top_1 to Bottom_6 
+   Violation between Net Antennae: Via (68.671mm,57.381mm) from Top_1 to Bottom_6 
+   Violation between Net Antennae: Via (68.671mm,58.041mm) from Top_1 to Bottom_6 
+Rule Violations :5
+
+Processing Rule : Matched Lengths(Tolerance=1.27mm) (InxSignalClass('eMMC1'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1.27mm) (InxSignalClass('eMMC2'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.5mm) (InNetClass('QSPI'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Delay Tolerance=6ps) (InNetClass('DIFF90'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.254mm) (InNetClass('DDR-ADDR-CTL'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.102mm) (InNetClass('DIFF100'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=2mm) (InNetClass('JTAG'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.254mm) (InNetClass('DDR-LANE1'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.254mm) (InNetClass('DDR-LANE0'))
+Rule Violations :0
+
+Processing Rule : Room ROOM_SAMA7 (Bounding Region = (59.817mm, 60.325mm, 76.327mm, 76.835mm) (False)
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0.254mm, Vertical Gap = 0.254mm ) (All),(All) 
+   Violation between Component Clearance Constraint: (Collision < 0.254mm) Between DIP Component H1-ESQ-126-14-G-D (11.19mm,13.88mm) on Top_1 And DIP Component H2-ESQ-126-14-G-D (6.11mm,13.88mm) on Top_1 
+Rule Violations :1
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 59
+Waived Violations : 0
+Time Elapsed        : 00:00:02

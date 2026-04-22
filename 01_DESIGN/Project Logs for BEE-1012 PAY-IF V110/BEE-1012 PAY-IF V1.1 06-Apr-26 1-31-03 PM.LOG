@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetR291_1 Pin=U24-6
+Removed Pin From Net: NetName=NetR294_1 Pin=U24-7
+Add Differential Pair: Number of nets in differential pair NetR291_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR294_1 is 1 instead of 2

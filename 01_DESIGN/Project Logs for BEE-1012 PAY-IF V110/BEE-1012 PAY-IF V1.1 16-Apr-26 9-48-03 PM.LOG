@@ -1,0 +1,3 @@
+Change Component Comment : Designator=D10 Old Comment=LTST-C281KSKT New Comment=_LED_YELLOW
+Change Component Description : Designator=D10 Old Description=LED YELLOW CLEAR 0402 SMD New Description=LED YELLOW CLEAR 603 SMD
+Change Component Library : Designator=U5 Old Library=emmc_nofootprint.IntLib New Library=IFBschelib.SchLib

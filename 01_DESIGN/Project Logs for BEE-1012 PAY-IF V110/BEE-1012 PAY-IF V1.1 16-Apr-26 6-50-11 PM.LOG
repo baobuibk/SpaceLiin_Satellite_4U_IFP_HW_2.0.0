@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=5V_FPGA_efuse Pin=D16-1
+Removed Pin From Net: NetName=GND Pin=D16-2
+Change component parameters: Designator = "D16" ("D16"); Footprint = "DO-214AC_SMA"; UniqueID = "\APLRNMYL" ("\APLRNMYL")
+Change component parameters (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "SS34"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "SS34"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D16-1
+Added Pin To Net: NetName=5V_FPGA_efuse Pin=D16-2

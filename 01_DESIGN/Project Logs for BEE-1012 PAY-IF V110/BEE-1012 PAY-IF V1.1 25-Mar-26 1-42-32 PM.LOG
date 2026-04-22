@@ -1,0 +1,49 @@
+Removed Member From Class: ClassName=DIFF90 Member=FPGA_LVDS_RXC_N
+Removed Member From Class: ClassName=DIFF90 Member=FPGA_LVDS_RXC_P
+Removed Member From Class: ClassName=DIFF90 Member=FPGA_LVDS_RXD_N
+Removed Member From Class: ClassName=DIFF90 Member=FPGA_LVDS_RXD_P
+Removed Member From Class: ClassName=DIFF90 Member=FPGA_LVDS_TXC_N
+Removed Member From Class: ClassName=DIFF90 Member=FPGA_LVDS_TXC_P
+Removed Member From Class: ClassName=DIFF90 Member=FPGA_LVDS_TXD_N
+Removed Member From Class: ClassName=DIFF90 Member=FPGA_LVDS_TXD_P
+Removed Member From Class: ClassName=DIFF90 Member=PHY_LVDS_RXC_N
+Removed Member From Class: ClassName=DIFF90 Member=PHY_LVDS_RXC_P
+Removed Member From Class: ClassName=DIFF90 Member=PHY_LVDS_RXD_N
+Removed Member From Class: ClassName=DIFF90 Member=PHY_LVDS_RXD_P
+Removed Member From Class: ClassName=DIFF90 Member=PHY_LVDS_TXC_N
+Removed Member From Class: ClassName=DIFF90 Member=PHY_LVDS_TXC_P
+Removed Member From Class: ClassName=DIFF90 Member=PHY_LVDS_TXD_N
+Removed Member From Class: ClassName=DIFF90 Member=PHY_LVDS_TXD_P
+Added Member To Class: ClassName=DIFF100 Member=Wire FPGA_LVDS_RXC_N
+Added Member To Class: ClassName=DIFF100 Member=Wire FPGA_LVDS_RXC_P
+Added Member To Class: ClassName=DIFF100 Member=Wire FPGA_LVDS_RXD_N
+Added Member To Class: ClassName=DIFF100 Member=Wire FPGA_LVDS_RXD_P
+Added Member To Class: ClassName=DIFF100 Member=Wire FPGA_LVDS_TXC_N
+Added Member To Class: ClassName=DIFF100 Member=Wire FPGA_LVDS_TXC_P
+Added Member To Class: ClassName=DIFF100 Member=Wire FPGA_LVDS_TXD_N
+Added Member To Class: ClassName=DIFF100 Member=Wire FPGA_LVDS_TXD_P
+Added Member To Class: ClassName=DIFF100 Member=Wire PHY_LVDS_RXC_N
+Added Member To Class: ClassName=DIFF100 Member=Wire PHY_LVDS_RXC_P
+Added Member To Class: ClassName=DIFF100 Member=Wire PHY_LVDS_RXD_N
+Added Member To Class: ClassName=DIFF100 Member=Wire PHY_LVDS_RXD_P
+Added Member To Class: ClassName=DIFF100 Member=Wire PHY_LVDS_TXC_N
+Added Member To Class: ClassName=DIFF100 Member=Wire PHY_LVDS_TXC_P
+Added Member To Class: ClassName=DIFF100 Member=Wire PHY_LVDS_TXD_N
+Added Member To Class: ClassName=DIFF100 Member=Wire PHY_LVDS_TXD_P
+Added Rule: Name=Schematic Matched Net Lengths_5
+Removed Member From Class: ClassName=DIFF90 Member=FPGA_LVDS_RXC
+Removed Member From Class: ClassName=DIFF90 Member=FPGA_LVDS_RXD
+Removed Member From Class: ClassName=DIFF90 Member=FPGA_LVDS_TXC
+Removed Member From Class: ClassName=DIFF90 Member=FPGA_LVDS_TXD
+Removed Member From Class: ClassName=DIFF90 Member=PHY_LVDS_RXC
+Removed Member From Class: ClassName=DIFF90 Member=PHY_LVDS_RXD
+Removed Member From Class: ClassName=DIFF90 Member=PHY_LVDS_TXC
+Removed Member From Class: ClassName=DIFF90 Member=PHY_LVDS_TXD
+Added Member To Class: ClassName=DIFF100 Member=FPGA_LVDS_RXC
+Added Member To Class: ClassName=DIFF100 Member=FPGA_LVDS_RXD
+Added Member To Class: ClassName=DIFF100 Member=FPGA_LVDS_TXC
+Added Member To Class: ClassName=DIFF100 Member=FPGA_LVDS_TXD
+Added Member To Class: ClassName=DIFF100 Member=PHY_LVDS_RXC
+Added Member To Class: ClassName=DIFF100 Member=PHY_LVDS_RXD
+Added Member To Class: ClassName=DIFF100 Member=PHY_LVDS_TXC
+Added Member To Class: ClassName=DIFF100 Member=PHY_LVDS_TXD

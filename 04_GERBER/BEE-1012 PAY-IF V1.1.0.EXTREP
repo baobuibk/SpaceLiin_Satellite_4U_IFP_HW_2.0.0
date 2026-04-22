@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: BEE-1012 PAY-IF V1.1.0.GBR   22-Apr-26  9:12:40 AM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Top Solder                              
+.gbr                L1_TOP                                  
+.gbr                L2_GND1                                 
+.gbr                L3_SIG1                                 
+.gbr                L4_PWR1                                 
+.gbr                L5_PWR2                                 
+.gbr                L6_SIG2                                 
+.gbr                L7_GND2                                 
+.gbr                L8_BOT                                  
+.gbr                Bottom Solder                           
+.gbr                Bottom Paste                            
+.gbr                Bottom Overlay                          
+.gbr                Top Pad Master                          
+.gbr                Bottom Pad Master                       
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+.gbr                Profile                                 
+------------------------------------------------------------------------------------------

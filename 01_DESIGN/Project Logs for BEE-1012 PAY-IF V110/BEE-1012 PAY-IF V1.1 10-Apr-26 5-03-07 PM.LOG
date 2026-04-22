@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=U41-6
+Change Component Comment : Designator=R392 Old Comment=0R New Comment=4.7k
+Change Component Comment : Designator=R393 Old Comment=DNP/0R New Comment=DNP/4.7k
+Added Component: Designator=R397(RES_C_1005x30_L)
+Added Component: Designator=R398(RES_C_1005x30_L)
+Added Pin To Net: NetName=3V3_COM Pin=R397-1
+Added Pin To Net: NetName=GND Pin=R398-2
+Added Pin To Net: NetName=BNO_PS0 Pin=R397-2
+Added Pin To Net: NetName=BNO_PS0 Pin=R398-1
+Added Pin To Net: NetName=BNO_PS0 Pin=U41-6
+Added Net: Name=BNO_PS0
+Added Member To Class: ClassName=IMU Member=Component R397 DNP/4.7k
+Added Member To Class: ClassName=IMU Member=Component R398 4.7k

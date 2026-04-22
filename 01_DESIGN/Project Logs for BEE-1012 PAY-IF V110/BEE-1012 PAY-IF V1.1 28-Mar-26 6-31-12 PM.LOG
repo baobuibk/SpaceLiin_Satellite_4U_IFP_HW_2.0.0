@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R9 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005x30_L
+Change Component Footprint: Designator=R10 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005x30_L
+Change Component Footprint: Designator=R11 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005x30_L
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R90 DNP/10k

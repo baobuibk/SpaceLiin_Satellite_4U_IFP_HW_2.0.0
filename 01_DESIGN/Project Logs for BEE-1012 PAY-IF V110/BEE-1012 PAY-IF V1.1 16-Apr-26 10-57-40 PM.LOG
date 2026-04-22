@@ -1,0 +1,14 @@
+Change Component Description : Designator=C118 Old Description=CAP New Description=CAP CHIP
+Change Component Description : Designator=C133 Old Description=CAP New Description=CAP CHIP
+Change Component Description : Designator=C141 Old Description=CAP New Description=CAP CHIP
+Change Component Description : Designator=C143 Old Description=CAP New Description=CAP CHIP
+Change Component Description : Designator=C192 Old Description=CAP New Description=CAP CHIP
+Change Component Library : Designator=C118 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=C133 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=C141 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=C143 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=C192 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=R182 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=R183 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=R184 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Change Component Library : Designator=R313 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
