@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=SAMA7G54_PIO Member=R?
+Change Component Designator: OldDesignator=R? NewDesignator=R403
+Change Component Designator: OldDesignator=R? NewDesignator=R404
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R403 47K
