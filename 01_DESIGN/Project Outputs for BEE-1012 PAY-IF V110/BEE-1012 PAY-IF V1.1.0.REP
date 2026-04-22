@@ -15,7 +15,7 @@ Used DCodes :
     D12
     D140
     D141
-    D150
+    D151
     D152
     D153
     D154
@@ -111,7 +111,7 @@ Used DCodes :
     D11
     D12
     D141
-    D150
+    D151
     D152
     D153
     D154
@@ -135,23 +135,23 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D20
+    D50
     D76
     D77
     D78
     D79
-    D83
+    D80
+    D82
+    D84
+    D85
     D89
-    D92
-    D100
+    D91
+    D94
     D102
-    D103
+    D104
     D105
-    D106
-    D107
-    D110
-    D115
-    D119
+    D117
+    D120
     D121
     D122
     D126
@@ -167,13 +167,13 @@ Used DCodes :
     D136
     D137
     D138
-    D164
-    D165
-    D166
-    D167
-    D168
-    D174
-    D188
+    D180
+    D182
+    D183
+    D184
+    D185
+    D186
+    D194
     D206
     D207
     D208
@@ -231,7 +231,7 @@ Used DCodes :
     D17
     D140
     D144
-    D150
+    D151
     D152
     D153
     D154
@@ -258,18 +258,18 @@ Used DCodes :
     D19
     D20
     D21
-    D22
+    D23
     D25
-    D36
-    D39
+    D26
+    D30
+    D32
+    D35
     D47
+    D48
     D49
     D50
-    D51
-    D52
-    D53
-    D60
-    D64
+    D62
+    D65
     D66
     D67
     D71
@@ -332,7 +332,7 @@ Generating : L2_GND1
 
 
 Used DCodes :
-    D150
+    D151
     D152
     D153
     D154
@@ -367,7 +367,6 @@ Used DCodes :
     D22
     D23
     D24
-    D25
     D26
     D27
     D28
@@ -394,6 +393,7 @@ Used DCodes :
     D49
     D50
     D51
+    D52
     D53
     D54
     D55
@@ -417,7 +417,7 @@ Used DCodes :
     D74
     D75
     D77
-    D110
+    D104
     D140
     D141
     D142
@@ -457,7 +457,7 @@ Used DCodes :
     D14
     D17
     D144
-    D150
+    D151
     D152
     D153
     D154
@@ -480,7 +480,7 @@ Generating : L7_GND2
 
 
 Used DCodes :
-    D150
+    D151
     D152
     D153
     D154
@@ -512,17 +512,17 @@ Used DCodes :
     D19
     D20
     D21
-    D22
-    D25
-    D36
-    D39
+    D23
+    D26
+    D30
+    D32
+    D35
     D47
+    D48
     D49
     D50
-    D51
-    D53
-    D60
-    D64
+    D62
+    D65
     D66
     D67
     D71
@@ -531,7 +531,7 @@ Used DCodes :
     D74
     D75
     D77
-    D110
+    D104
     D140
     D141
     D142
@@ -609,17 +609,17 @@ Used DCodes :
     D19
     D20
     D21
-    D22
-    D25
-    D36
-    D39
+    D23
+    D26
+    D30
+    D32
+    D35
     D47
+    D48
     D49
     D50
-    D51
-    D53
-    D60
-    D64
+    D62
+    D65
     D66
     D67
     D71
@@ -627,7 +627,7 @@ Used DCodes :
     D73
     D74
     D75
-    D110
+    D104
     D142
     D150
     D151
@@ -699,7 +699,6 @@ Used DCodes :
     D22
     D23
     D24
-    D25
     D26
     D27
     D28
@@ -726,6 +725,7 @@ Used DCodes :
     D49
     D50
     D51
+    D52
     D53
     D54
     D55
@@ -748,7 +748,7 @@ Used DCodes :
     D73
     D74
     D75
-    D110
+    D104
     D142
     D143
     D150
@@ -814,12 +814,12 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D20
-    D30
-    D31
-    D32
-    D33
-    D34
+    D39
+    D40
+    D41
+    D42
+    D44
+    D50
     D76
     D77
     D78
