@@ -1,0 +1,15 @@
+Added Component: Designator=U38(SOIC8_S25FL_CYP)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Cypress Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "S25FL128LAGMFI010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR366_1 Pin=U38-1
+Added Pin To Net: NetName=NetR371_2 Pin=U38-2
+Added Pin To Net: NetName=NetR367_1 Pin=U38-3
+Added Pin To Net: NetName=GND Pin=U38-4
+Added Pin To Net: NetName=NetR374_1 Pin=U38-5
+Added Pin To Net: NetName=FLASH_SPI_MCLK Pin=U38-6
+Added Pin To Net: NetName=NetR369_1 Pin=U38-7
+Added Pin To Net: NetName=3V3_COM Pin=U38-8
+Added Member To Class: ClassName=FPGA_extFLASH Member=Component U38 S25FL128LAGMFI010

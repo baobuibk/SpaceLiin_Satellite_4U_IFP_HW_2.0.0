@@ -1,0 +1,18 @@
+Added Component: Designator=J14(SAMTEC-TLE-110-01-X-DV-A)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SAMTEC-TLE-110-01-X-DV-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3_COM Pin=J14-2
+Added Pin To Net: NetName=GND Pin=J14-10
+Added Pin To Net: NetName=SAM_HOST_UART_RXD Pin=J14-11
+Added Pin To Net: NetName=SAM_HOST_UART_TXD Pin=J14-12
+Added Pin To Net: NetName=GND Pin=J14-13
+Added Pin To Net: NetName=SAM_OEM719_UART_RX Pin=J14-14
+Added Pin To Net: NetName=SAM_OEM719_UART_TX Pin=J14-15
+Added Pin To Net: NetName=GND Pin=J14-16
+Added Pin To Net: NetName=GND Pin=J14-18
+Added Pin To Net: NetName=SAM_OEM719_PPS Pin=J14-19
+Added Member To Class: ClassName=CONNECTOR_INTERFACE Member=Component J14 TLE-110-01-G-DV-A-TR
