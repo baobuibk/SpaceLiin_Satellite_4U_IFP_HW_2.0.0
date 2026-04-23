@@ -1286,66 +1286,98 @@ DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_Dri
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_Legend_Bot.gbr
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_L1_TOP.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_Legend_Top.gbr
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_L2_GND1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_Pads_Bot.gbr
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_L3_SIG1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_Pads_Top.gbr
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_L4_PWR1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_Paste_Bot.gbr
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_L5_PWR2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_Paste_Top.gbr
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_L6_SIG2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_Profile.gbr
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_L7_GND2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_L8_BOT.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_Soldermask_Top.gbr
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=Project Outputs for PAY_IF\Design Rule Check - BEE-1012 PAY-IF V1.0.html
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\Design Rule Check - BEE-1012 PAY-IF V1.1.html
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=Project Outputs for PAY_IFB\Design Rule Check - PAY_IFP_V1.html
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\Net Status - BEE-1012 PAY-IF V1.1.html
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=Project Outputs for PAY_IFB\Net Status - PAY_IFP_V1.html
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=Project Outputs for PAY_IF\Pick Place for BEE-1012 PAY-IF V1.0.0.csv
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument70]
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\BEE-1012 PAY-IF V1.1.0_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for PAY_IF\Design Rule Check - BEE-1012 PAY-IF V1.0.html
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\Design Rule Check - BEE-1012 PAY-IF V1.1.html
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for PAY_IFB\Design Rule Check - PAY_IFP_V1.html
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\Net Status - BEE-1012 PAY-IF V1.1.html
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for PAY_IFB\Net Status - PAY_IFP_V1.html
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for PAY_IF\Pick Place for BEE-1012 PAY-IF V1.0.0.csv
+DItemRevisionGUID=
+
+[GeneratedDocument78]
 DocumentPath=Project Outputs for PAY_IF\Pick Place for BEE-1012 PAY-IF V1.0.0.txt
 DItemRevisionGUID=
 
@@ -1753,7 +1785,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=UMSAZYOV|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Single|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777219~1,16777220~1,16777222~1,16777221~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16973848~1,16973849~1,16777223~1,16777218~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName= |PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=D:\PAY_IFB\hw\HW\PAY_IFB\2_PAY_IFP_V2\SpaceLiin_Satellite_4U_IFP_HW_2.0.0\01_DESIGN\BEE-1012 PAY-IF V1.1.0.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=UMSAZYOV|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Single|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777219~1,16777220~1,16777222~1,16777221~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16973848~1,16973849~1,16777223~1,16777218~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName= |PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UserLayerName.Caption0=BEE-1012 PAY-IF V1.1.0_L2_GND1.gbr|UserLayerName.Caption1=BEE-1012 PAY-IF V1.1.0_L4_PWR1.gbr|UserLayerName.Caption2=BEE-1012 PAY-IF V1.1.0_L8_BOT.gbr|UserLayerName.Caption3=BEE-1012 PAY-IF V1.1.0_L7_GND2.gbr|UserLayerName.Caption4=BEE-1012 PAY-IF V1.1.0_L3_SIG1.gbr|UserLayerName.Caption5=BEE-1012 PAY-IF V1.1.0_L1_TOP.gbr|UserLayerName.Caption6=BEE-1012 PAY-IF V1.1.0_L6_SIG2.gbr|UserLayerName.Caption7=BEE-1012 PAY-IF V1.1.0_L5_PWR2.gbr|UserLayerName.Count=8|UserLayerName.Layer0=16777219|UserLayerName.Layer1=16777220|UserLayerName.Layer2=16842751|UserLayerName.Layer3=16777221|UserLayerName.Layer4=16777218|UserLayerName.Layer5=16777217|UserLayerName.Layer6=16777223|UserLayerName.Layer7=16777222|DocumentPath=D:\PAY_IFB\hw\HW\PAY_IFB\2_PAY_IFP_V2\SpaceLiin_Satellite_4U_IFP_HW_2.0.0\01_DESIGN\BEE-1012 PAY-IF V1.1.0.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -2872,20 +2904,24 @@ Net1=NetName=12V|NetColor=clYellow
 Net2=NetName=12V_CONN|NetColor=$006E6EFF
 Net3=NetName=12V_EXP|NetColor=clYellow
 Net4=NetName=12V_IN|NetColor=$000033CC
-Net5=NetName=3.3_VBAT|NetColor=$006A00A1
-Net6=NetName=3V3|NetColor=$000083FD
-Net7=NetName=3V3_COM|NetColor=$00FF6EFF
-Net8=NetName=3V3_eMMC|NetColor=$00FF6E6E
-Net9=NetName=3V3_IC|NetColor=$00FF39BC
-Net10=NetName=3V3_IC_DRIVE|NetColor=$00DB208A
-Net11=NetName=5V|NetColor=$00FFFF6E
-Net12=NetName=5V_FPGA|NetColor=$00009CFF
-Net13=NetName=DDR_VREF|NetColor=$0056007C
-Net14=NetName=GND|NetColor=$00575860
-Net15=NetName=VBAT|NetColor=$008E00C5
-Net16=NetName=VDDCORE|NetColor=$00C1D672
-Net17=NetName=VDDCPU|NetColor=$0052E7C0
-Net18=NetName=VDDIODDR|NetColor=$006EFF6E
+Net5=NetName=1V_VCORE|NetColor=$00854000
+Net6=NetName=1V8_VCCAUX|NetColor=$006F2F68
+Net7=NetName=1V8_VCCIO3/4/5|NetColor=$008F88FF
+Net8=NetName=3.3_VBAT|NetColor=$006A00A1
+Net9=NetName=3V3|NetColor=$000083FD
+Net10=NetName=3V3_COM|NetColor=$00FF6EFF
+Net11=NetName=3V3_eMMC|NetColor=$00FF6E6E
+Net12=NetName=3V3_IC|NetColor=$00FF39BC
+Net13=NetName=3V3_IC_DRIVE|NetColor=$00DB208A
+Net14=NetName=3V3_VCCIO0/1|NetColor=$002E619F
+Net15=NetName=5V|NetColor=$00FFFF6E
+Net16=NetName=5V_FPGA|NetColor=$00009CFF
+Net17=NetName=DDR_VREF|NetColor=$0056007C
+Net18=NetName=GND|NetColor=$00575860
+Net19=NetName=VBAT|NetColor=$008E00C5
+Net20=NetName=VDDCORE|NetColor=$00C1D672
+Net21=NetName=VDDCPU|NetColor=$0052E7C0
+Net22=NetName=VDDIODDR|NetColor=$006EFF6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

@@ -1,0 +1,4 @@
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(104, 47, 111)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 136, 143)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 64, 133)
+Added Member To Class: ClassName=CONNECTOR_INTERFACE Member=Component J14 TLE-110-01-G-DV-A-TR
