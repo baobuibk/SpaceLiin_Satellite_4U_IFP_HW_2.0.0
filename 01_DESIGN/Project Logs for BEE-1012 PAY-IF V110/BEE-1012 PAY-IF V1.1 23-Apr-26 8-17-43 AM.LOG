@@ -1,0 +1,4 @@
+Change Component Comment : Designator=R404 Old Comment=10k New Comment=1k
+Change Component Comment : Designator=R172 Old Comment=100k New Comment=10k
+Change Component Library : Designator=R403 Old Library=LABLIB.SchLib New Library=IFBschelib.SchLib
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R70 22R

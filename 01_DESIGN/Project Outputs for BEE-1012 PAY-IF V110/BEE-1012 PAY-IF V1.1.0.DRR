@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: BEE-1012 PAY-IF V1.1.0.PcbDoc   22-Apr-26  6:25:54 PM
+NCDrill File Report For: BEE-1012 PAY-IF V1.1.0.PcbDoc   23-Apr-26  10:08:11 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : L1_TOP to L8_BOT
@@ -7,7 +7,7 @@ ASCII RoundHoles File : BEE-1012 PAY-IF V1.1.0.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.2mm (8mil)                                              Round             1527      PTH        2521.95mm (99.29inch)
+T1      0.2mm (8mil)                                              Round             1527      PTH        2521.27mm (99.26inch)
 T2      0.5mm (20mil)                                             Round             1         PTH        0.00mm (0.00inch)
 T3      0.9mm (35mil)                                             Round             104       PTH        305.76mm (12.04inch)
 T4      1.1mm (43mil)                                             Round             2         PTH        2.54mm (0.10inch)
@@ -18,4 +18,4 @@ T8      1.19mm (47mil)                                            Round         
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              1650
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01
