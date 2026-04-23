@@ -1,0 +1,10 @@
+Added Component: Designator=U7(DIODE_SOT457_1P7X3P1_NEX)
+Add component (AddParameter): Name = "CLABCONF0"; Value = "#NAME?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "P/N"; Value = "132D42200S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Footprint"; Value = "SOT23-6L"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=SD2_CLK Pin=U7-3
+Added Pin To Net: NetName=SD2_DATA0 Pin=U7-4
+Added Pin To Net: NetName=3V3_eMMC Pin=U7-5
+Added Pin To Net: NetName=SD2_DATA1 Pin=U7-6
+Added Member To Class: ClassName=SDCARD_FLASH Member=Component U7 IP4220CZ6
