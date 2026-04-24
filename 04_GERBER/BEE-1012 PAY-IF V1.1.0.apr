@@ -97,10 +97,10 @@ D137  ROUNDED             9.842       9.842       0.000  LINE       0.000
 D138  ROUNDED            15.748      15.748       0.000  LINE       0.000
 D139  RECTANGULAR       102.362     102.362       0.000 FLASH     270.000
 D140  RECTANGULAR        40.000      50.000       0.000 FLASH      90.000
-D141  ROUNDED            23.622      23.622       0.000  LINE       0.000
-D142  ROUNDED             6.299       6.299       0.000  LINE       0.000
-D143  ROUNDED            13.780      13.780       0.000  LINE       0.000
-D144  ROUNDED            19.685      19.685       0.000  LINE       0.000
+D141  ROUNDED             6.299       6.299       0.000  LINE       0.000
+D142  ROUNDED            19.685      19.685       0.000  LINE       0.000
+D143  ROUNDED            23.622      23.622       0.000  LINE       0.000
+D144  ROUNDED            13.780      13.780       0.000  LINE       0.000
 D145  ROUNDED             7.087       7.087       0.000  LINE       0.000
 D146  ROUNDED            31.496      31.496       0.000  LINE       0.000
 D147  ROUNDED            29.921      29.921       0.000 FLASH       0.000
