@@ -2,9 +2,10 @@ Output: Generates pick and place files
 Type  : Pick Place
 From  : Variant [[No Variations]] of Project [BEE-1012 PAY-IF V110.PrjPcb]
    Generated File[Pick Place for BEE-1012 PAY-IF V1.1.0.txt]
+   Generated File[Pick Place for BEE-1012 PAY-IF V1.1.0.csv]
 
 
-Files Generated   : 1
+Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 9:31:03 AM On 24-Apr-26
+Finished Output Generation At 12:23:25 AM On 25-Apr-26

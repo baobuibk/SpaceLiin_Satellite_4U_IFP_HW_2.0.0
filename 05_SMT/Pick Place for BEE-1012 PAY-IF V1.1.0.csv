@@ -4,9 +4,9 @@ D:\PAY_IFB\hw\HW\PAY_IFB\2_PAY_IFP_V2\SpaceLiin_Satellite_4U_IFP_HW_2.0.0\01_DES
 ========================================================================================================================
 File Design Information:
 
-Date:       24-04-26
-Time:       09:30
-Revision:   c8a4b72d13d1605f186c9c483d1885c078877410
+Date:       25-04-26
+Time:       00:23
+Revision:   f88e4b4a3917c7b7a33557354d1fac90638d4297
 Variant:    No variations
 Units used: mm
 
@@ -84,7 +84,7 @@ Units used: mm
 "R133","DNP/10k","BottomLayer","RES_C_1005x30_L","59.3017","53.2137","270","RES"
 "TP24","","TopLayer","Testpoint_80_pin0","73.5330","49.0220","90","Test Point"
 "TP16","","BottomLayer","Testpoint_80_pin0","64.0080","32.1310","90","Test Point"
-"TP23","","TopLayer","Testpoint_80_pin0","70.2868","5.8132","270","Test Point"
+"TP23","","TopLayer","Testpoint_80_pin0","69.7868","5.8132","270","Test Point"
 "TP13","","BottomLayer","Testpoint_80_pin0","49.7946","20.2642","90","Test Point"
 "TP12","","BottomLayer","Testpoint_80_pin0","64.4606","30.7958","90","Test Point"
 "TP10","","BottomLayer","Testpoint_80_pin0","65.5320","57.1500","90","Test Point"
@@ -92,9 +92,9 @@ Units used: mm
 "TP8","","BottomLayer","Testpoint_80_pin0","58.2930","64.7506","90","Test Point"
 "TP7","","BottomLayer","Testpoint_80_pin0","63.1465","64.1332","90","Test Point"
 "TP6","","TopLayer","Testpoint_80_pin0","53.1798","71.6723","90","Test Point"
-"TP22","","TopLayer","Testpoint_80_pin0","65.8418","5.8132","270","Test Point"
-"TP21","","TopLayer","Testpoint_80_pin0","67.3235","5.8132","270","Test Point"
-"TP20","","TopLayer","Testpoint_80_pin0","68.8052","5.8132","270","Test Point"
+"TP22","","TopLayer","Testpoint_80_pin0","65.3418","5.8132","270","Test Point"
+"TP21","","TopLayer","Testpoint_80_pin0","66.8235","5.8132","270","Test Point"
+"TP20","","TopLayer","Testpoint_80_pin0","68.3052","5.8132","270","Test Point"
 "TP19","","BottomLayer","Testpoint_80_pin0","51.6592","14.9857","90","Test Point"
 "TP18","","BottomLayer","Testpoint_80_pin0","52.3754","15.7789","90","Test Point"
 "TP17","","BottomLayer","Testpoint_80_pin0","62.1268","30.9780","90","Test Point"
@@ -426,8 +426,8 @@ Units used: mm
 "U28","LM1117MP-3.3/NOPB","BottomLayer","VREG_LM1117MP-3.3/NOPB","44.6380","63.7988","180","800-mA 15-V linear voltage regulator"
 "U26","TPS259470ARPWR","BottomLayer","VQFN-HR-10","75.7936","71.5454","0",""
 "U23","LTC2865HMSE#TRPBF","TopLayer","MSOP-12_MSE_LIT","79.2882","55.9562","0","±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers"
-"U22","SN65HVD230DR","BottomLayer","SOIC127P599X175-8N","20.5345","14.6290","0","3.3 V CAN Transceiver with Standby Mode"
-"U21","SN65HVD230DR","TopLayer","SOIC127P599X175-8N","18.9930","31.0690","180","3.3 V CAN Transceiver with Standby Mode"
+"U22","SN65HVD230DR","BottomLayer","SOIC127P602X173-8N","20.5345","14.6290","0","3.3 V CAN Transceiver with Standby Mode"
+"U21","SN65HVD230DR","TopLayer","SOIC127P602X173-8N","18.9930","31.0690","180","3.3 V CAN Transceiver with Standby Mode"
 "U18","DS90LV011AQ-Q1","BottomLayer","DS90LV011AQ-Q1","65.1510","78.4200","0","Automotive LVDS Differential Driver"
 "U17","DS90LV011AQ-Q1","BottomLayer","DS90LV011AQ-Q1","53.2130","78.4200","0","Automotive LVDS Differential Driver"
 "U16","TPL5010DDCR","TopLayer","TPL5010DDCR","64.6626","42.3443","180","OSC PROG TIMER TSOT23-6"
@@ -716,7 +716,7 @@ Units used: mm
 "C102","0.1uF/10V","TopLayer","CAP_C_0603x30","45.6920","37.2395","0","CAP"
 "C101","0.1uF/10V","TopLayer","CAP_C_0603x30","53.2409","38.0863","0","CAP"
 "C100","0.1uF/10V","TopLayer","CAP_C_0603x30","46.3952","39.7138","90","CAP"
-"C99","0.1uF/10V","TopLayer","CAP_C_0603x30","47.3780","40.0148","90","CAP"
+"C99","0.1uF/10V","TopLayer","CAP_C_0603x30","47.4780","40.0148","90","CAP"
 "C98","0.1uF/10V","TopLayer","CAP_C_0603x30","48.9910","38.4609","270","CAP"
 "C97","0.1uF/10V","TopLayer","CAP_C_0603x30","50.9488","38.7019","0","CAP"
 "C96","0.1uF/10V","TopLayer","CAP_C_0603x30","53.5721","34.4880","0","CAP"
