@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DDR_D0 Pin=TP12-0
+Removed Pin From Net: NetName=DDR_D8 Pin=TP13-0
+Removed Pin From Net: NetName=DDR_DQS0_P Pin=TP16-0
+Removed Pin From Net: NetName=DDR_DQS0_N Pin=TP17-0
+Removed Pin From Net: NetName=DDR_DQS1_P Pin=TP18-0
+Removed Pin From Net: NetName=DDR_DQS1_N Pin=TP19-0
+Removed Member From Class: ClassName=SAMA7G54_DDR3L Member=TP12
+Removed Member From Class: ClassName=SAMA7G54_DDR3L Member=TP13
+Removed Member From Class: ClassName=SAMA7G54_DDR3L Member=TP16
+Removed Member From Class: ClassName=SAMA7G54_DDR3L Member=TP17
+Removed Member From Class: ClassName=SAMA7G54_DDR3L Member=TP18
+Removed Member From Class: ClassName=SAMA7G54_DDR3L Member=TP19

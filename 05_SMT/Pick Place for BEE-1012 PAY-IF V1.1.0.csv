@@ -5,8 +5,8 @@ D:\PAY_IFB\hw\HW\PAY_IFB\2_PAY_IFP_V2\SpaceLiin_Satellite_4U_IFP_HW_2.0.0\01_DES
 File Design Information:
 
 Date:       26-04-26
-Time:       10:45
-Revision:   3a895e336661ca2ffe0cb10954c1b7ef4fbb112b
+Time:       14:42
+Revision:   0392a9c04197185b5da5ae4e5c77c72a94d845aa
 Variant:    No variations
 Units used: mm
 
@@ -83,10 +83,7 @@ Units used: mm
 "R135","22R","TopLayer","RES_C_1005x30_L","43.2341","50.4553","270","RES"
 "R133","DNP/10k","BottomLayer","RES_C_1005x30_L","59.3017","53.2137","270","RES"
 "TP24","","TopLayer","Testpoint_80_pin0","73.5330","49.0220","90","Test Point"
-"TP16","","BottomLayer","Testpoint_80_pin0","64.0080","32.1310","90","Test Point"
 "TP23","","TopLayer","Testpoint_80_pin0","69.7868","5.8132","270","Test Point"
-"TP13","","BottomLayer","Testpoint_80_pin0","49.7946","20.2642","90","Test Point"
-"TP12","","BottomLayer","Testpoint_80_pin0","64.4606","30.7958","90","Test Point"
 "TP10","","BottomLayer","Testpoint_80_pin0","65.5320","57.1500","90","Test Point"
 "TP9","","TopLayer","Testpoint_80_pin0","68.1593","68.0974","90","Test Point"
 "TP8","","BottomLayer","Testpoint_80_pin0","58.2930","64.7506","90","Test Point"
@@ -95,9 +92,6 @@ Units used: mm
 "TP22","","TopLayer","Testpoint_80_pin0","65.3418","5.8132","270","Test Point"
 "TP21","","TopLayer","Testpoint_80_pin0","66.8235","5.8132","270","Test Point"
 "TP20","","TopLayer","Testpoint_80_pin0","68.3052","5.8132","270","Test Point"
-"TP19","","BottomLayer","Testpoint_80_pin0","51.6592","14.9857","90","Test Point"
-"TP18","","BottomLayer","Testpoint_80_pin0","52.3754","15.7789","90","Test Point"
-"TP17","","BottomLayer","Testpoint_80_pin0","62.1268","30.9780","90","Test Point"
 "TP11","","BottomLayer","Testpoint_80_pin0","55.7530","42.1640","90","Test Point"
 "TP5","","TopLayer","Testpoint_80_pin0","52.9675","68.0720","90","Test Point"
 "TP4","","BottomLayer","Testpoint_80_pin0","53.5218","62.8042","90","Test Point"
