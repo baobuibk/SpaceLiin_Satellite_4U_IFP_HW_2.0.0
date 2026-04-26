@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\PAY_IFB\hw\HW\PAY_IFB\2_PAY_IFP_V2\SpaceLiin_Satellite_4U_IFP_HW_2.0.0\01_DESIGN\BEE-1012 PAY-IF V1.1.0.PcbDoc
-Date     : 24-Apr-26
-Time     : 9:52:01 AM
+Date     : 26-Apr-26
+Time     : 11:27:30 AM
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (WithinRoom('RoomSAM')),(All)
 Rule Violations :0
@@ -9,7 +9,7 @@ Rule Violations :0
 Processing Rule : Clearance Constraint (Gap=0mm) (IsKeepOut),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=0.1mm) (WithinRoom('RoomFPGA')),(All)
+Processing Rule : Clearance Constraint (Gap=0.075mm) (WithinRoom('RoomFPGA')),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (WithinRoom('RoomRAM')),(All)
@@ -30,13 +30,13 @@ Rule Violations :0
 Processing Rule : Width Constraint (Min=0.1mm) (Max=0.5mm) (Preferred=0.25mm) (WithinRoom('ROOM_SAMA7'))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.1mm) (Max=2mm) (Preferred=0.125mm) (All)
+Processing Rule : Width Constraint (Min=0.075mm) (Max=2mm) (Preferred=0.125mm) (All)
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=0.1mm) (Max=0.364mm) (Preferred=0.364mm) (InNetClass('QSPI') or InNetClass('50_eMMC1_MCU') or InNetClass('SD_CARD') or InNetClass('MRAM_SAMA7'))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.1mm) (Max=0.5mm) (Preferred=0.1mm) (WithinRoom('RoomFPGA'))
+Processing Rule : Width Constraint (Min=0.075mm) (Max=0.5mm) (Preferred=0.1mm) (WithinRoom('RoomFPGA'))
 Rule Violations :0
 
 Processing Rule : Routing Layers(All)
@@ -175,4 +175,4 @@ Rule Violations :0
 
 Violations Detected : 1
 Waived Violations : 0
-Time Elapsed        : 00:00:04
+Time Elapsed        : 00:00:02
