@@ -4,9 +4,9 @@ D:\PAY_IFB\hw\HW\PAY_IFB\2_PAY_IFP_V2\SpaceLiin_Satellite_4U_IFP_HW_2.0.0\01_DES
 ========================================================================================================================
 File Design Information:
 
-Date:       25-04-26
-Time:       00:23
-Revision:   f88e4b4a3917c7b7a33557354d1fac90638d4297
+Date:       26-04-26
+Time:       10:45
+Revision:   3a895e336661ca2ffe0cb10954c1b7ef4fbb112b
 Variant:    No variations
 Units used: mm
 
@@ -761,7 +761,7 @@ C57        0.1uF/10V                           BottomLayer CAP_C_1005X50_L      
 C56        0.1uF/10V                           TopLayer    CAP_C_0603x30                          53.0110      44.0821      0        CAP                                                                                                                                       
 C55        18pF/10V                            BottomLayer CAP_C_1005X50_L                        43.5999      27.0510      0        CAP                                                                                                                                       
 C54        0.1uF/10V                           TopLayer    CAP_C_0603x30                          48.5774      46.2361      90       CAP                                                                                                                                       
-C53        0.1uF/10V                           TopLayer    CAP_C_0603x30                          50.5928      46.2176      90       CAP                                                                                                                                       
+C53        0.1uF/10V                           TopLayer    CAP_C_0603x30                          50.9850      46.1249      90       CAP                                                                                                                                       
 C52        0.1uF/10V                           TopLayer    CAP_C_0603x30                          53.2716      46.5139      90       CAP                                                                                                                                       
 C51        4.7uF/10V                           TopLayer    CAP_C_1005X50_L                        52.2331      46.5268      90       CAP                                                                                                                                       
 C50        4.7uF/10V                           TopLayer    CAP_C_1005X50_L                        40.1966      33.1905      180      CAP                                                                                                                                       
@@ -774,7 +774,7 @@ C44        0.1uF/10V                           TopLayer    CAP_C_0603x30        
 C43        0.1uF/10V                           TopLayer    CAP_C_0603x30                          43.7821      35.9407      0        CAP                                                                                                                                       
 C42        0.1uF/10V                           TopLayer    CAP_C_0603x30                          44.7550      41.2397      180      CAP                                                                                                                                       
 C41        0.1uF/10V                           TopLayer    CAP_C_0603x30                          47.9400      41.9033      90       CAP                                                                                                                                       
-C40        0.1uF/10V                           TopLayer    CAP_C_0603x30                          43.9965      42.6055      270      CAP                                                                                                                                       
+C40        0.1uF/10V                           TopLayer    CAP_C_0603x30                          43.9965      42.7055      270      CAP                                                                                                                                       
 C39        0.1uF/10V                           TopLayer    CAP_C_0603x30                          44.7551      37.7518      270      CAP                                                                                                                                       
 C38        0.1uF/10V                           TopLayer    CAP_C_0603x30                          40.4427      35.8471      180      CAP                                                                                                                                       
 C37        0.1uF/10V                           TopLayer    CAP_C_0603x30                          49.6500      41.6134      270      CAP                                                                                                                                       
@@ -784,7 +784,7 @@ C34        4.7uF/10V                           TopLayer    CAP_C_1005X50_L      
 C33        0.1uF/10V                           TopLayer    CAP_C_0603x30                          42.2174      38.8869      180      CAP                                                                                                                                       
 C32        0.1uF/10V                           TopLayer    CAP_C_0603x30                          45.4020      44.2612      90       CAP                                                                                                                                       
 C31        0.1uF/10V                           TopLayer    CAP_C_0603x30                          46.7051      46.2176      90       CAP                                                                                                                                       
-C30        0.1uF/10V                           TopLayer    CAP_C_0603x30                          42.9397      41.2502      180      CAP                                                                                                                                       
+C30        0.1uF/10V                           TopLayer    CAP_C_0603x30                          43.0397      41.2502      180      CAP                                                                                                                                       
 C29        0.1uF/10V                           TopLayer    CAP_C_0603x30                          40.5781      42.0838      180      CAP                                                                                                                                       
 C28        0.1uF/10V                           TopLayer    CAP_C_0603x30                          42.8093      46.2356      90       CAP                                                                                                                                       
 C27        0.1uF/10V                           TopLayer    CAP_C_0603x30                          44.7873      46.3495      90       CAP                                                                                                                                       
